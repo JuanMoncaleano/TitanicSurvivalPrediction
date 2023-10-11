@@ -1,0 +1,1309 @@
+Passenger Id,Title,First Name,Last Name,Sex,Age,Sibling/Spouse Aboard,Parent/Children Aboard,Passenger Class,Fare,Embarkation Port,Survival Boat,Body Number,Survived,age_group,family_size
+1, Miss, Elisabeth Walton,Allen,female,29,0,0,1,211.3375,S,2,S,1,Adults,0
+2, Master, Hudson Trevor,Allison,male,0.9167,1,2,1,151.55,S,11,S,1,Children,3
+3, Miss, Helen Loraine,Allison,female,2,1,2,1,151.55,S,DNS,BNR,0,Children,3
+4, Mr, Hudson Joshua Creighton,Allison,male,30,1,2,1,151.55,S,DNS,135,0,Adults,3
+5, Mrs, Hudson J C (Bessie Waldo Daniels),Allison,female,25,1,2,1,151.55,S,DNS,BNR,0,Adults,3
+6, Mr, Harry,Anderson,male,48,0,0,1,26.55,S,3,S,1,Adults,0
+7, Miss, Kornelia Theodosia,Andrews,female,63,1,0,1,77.9583,S,10,S,1,Seniors,1
+8, Mr, Thomas Jr,Andrews,male,39,0,0,1,0,S,DNS,BNR,0,Adults,0
+9, Mrs, Edward Dale (Charlotte Lamson),Appleton,female,53,2,0,1,51.4792,S,D,S,1,Adults,2
+10, Mr, Ramon,Artagaveytia,male,71,0,0,1,49.5042,C,DNS,22,0,Seniors,0
+11, Col, John Jacob,Astor,male,47,1,0,1,227.525,C,DNS,124,0,Adults,1
+12, Mrs, John Jacob (Madeleine Talmadge Force),Astor,female,18,1,0,1,227.525,C,4,S,1,Teenagers,1
+13, Mme, Leontine Pauline,Aubart,female,24,0,0,1,69.3,C,9,S,1,Adults,0
+14, Miss," Ellen ""Nellie""",Barber,female,26,0,0,1,78.85,S,6,S,1,Adults,0
+15, Mr, Algernon Henry Wilson,Barkworth,male,80,0,0,1,30,S,B,S,1,Seniors,0
+16, Mr, John D,Baumann,male,41.5,0,0,1,25.925,S,DNS,BNR,0,Adults,0
+17, Mr, Quigg Edmond,Baxter,male,24,0,1,1,247.5208,C,DNS,BNR,0,Adults,1
+18, Mrs, James (Helene DeLaudeniere Chaput),Baxter,female,50,0,1,1,247.5208,C,6,S,1,Adults,1
+19, Miss, Albina,Bazzani,female,32,0,0,1,76.2917,C,8,S,1,Adults,0
+20, Mr, Thomson,Beattie,male,36,0,0,1,75.2417,C,A,BNR,0,Adults,0
+21, Mr, Richard Leonard,Beckwith,male,37,1,1,1,52.5542,S,5,S,1,Adults,2
+22, Mrs, Richard Leonard (Sallie Monypeny),Beckwith,female,47,1,1,1,52.5542,S,5,S,1,Adults,2
+23, Mr, Karl Howell,Behr,male,26,0,0,1,30,C,5,S,1,Adults,0
+24, Miss, Rosalie,Bidois,female,42,0,0,1,227.525,C,4,S,1,Adults,0
+25, Miss, Ellen,Bird,female,29,0,0,1,221.7792,S,8,S,1,Adults,0
+26, Mr, Jakob,Birnbaum,male,25,0,0,1,26,C,DNS,148,0,Adults,0
+27, Mr, Dickinson H,Bishop,male,25,1,0,1,91.0792,C,7,S,1,Adults,1
+28, Mrs, Dickinson H (Helen Walton),Bishop,female,19,1,0,1,91.0792,C,7,S,1,Adults,1
+29, Miss, Amelia,Bissette,female,35,0,0,1,135.6333,S,8,S,1,Adults,0
+30, Mr, Mauritz Hakan,Bjornstrom-Steffansson,male,28,0,0,1,26.55,S,D,S,1,Adults,0
+31, Mr, Stephen Weart,Blackwell,male,45,0,0,1,35.5,S,DNS,BNR,0,Adults,0
+32, Mr, Henry,Blank,male,40,0,0,1,31,C,7,S,1,Adults,0
+33, Miss, Caroline,Bonnell,female,30,0,0,1,164.8667,S,8,S,1,Adults,0
+34, Miss, Elizabeth,Bonnell,female,58,0,0,1,26.55,S,8,S,1,Adults,0
+35, Mr, John James,Borebank,male,42,0,0,1,26.55,S,DNS,BNR,0,Adults,0
+36, Miss, Grace Scott,Bowen,female,45,0,0,1,262.375,C,4,S,1,Adults,0
+37, Miss, Elsie Edith,Bowerman,female,22,0,1,1,55,S,6,S,1,Adults,1
+38, Mr," George (""George Arthur Brayton"")",Bradley,male,41.5,0,0,1,26.55,S,9,S,1,Adults,0
+39, Mr, John Bertram,Brady,male,41,0,0,1,30.5,S,DNS,BNR,0,Adults,0
+40, Mr, Emil,Brandeis,male,48,0,0,1,50.4958,C,DNS,208,0,Adults,0
+41, Dr, Arthur Jackson,Brewe,male,47,0,0,1,39.6,C,DNS,BNR,0,Adults,0
+42, Mrs, James Joseph (Margaret Tobin),Brown,female,44,0,0,1,27.7208,C,6,S,1,Adults,0
+43, Mrs, John Murray (Caroline Lane Lamson),Brown,female,59,2,0,1,51.4792,S,D,S,1,Seniors,2
+44, Mrs, William Robert (Emma Eliza Ward),Bucknell,female,60,0,0,1,76.2917,C,8,S,1,Seniors,0
+45, Miss, Elizabeth Margaret,Burns,female,41,0,0,1,134.5,C,3,S,1,Adults,0
+46, Major, Archibald Willingham,Butt,male,45,0,0,1,26.55,S,DNS,BNR,0,Adults,0
+47, Mr, Alexander,Cairns,male,41.5,0,0,1,31,S,DNS,BNR,0,Adults,0
+48, Mr, Edward Pennington,Calderhead,male,42,0,0,1,26.2875,S,5,S,1,Adults,0
+49, Mrs, Edward (Helen Churchill Hungerford),Candee,female,53,0,0,1,27.4458,C,6,S,1,Adults,0
+50, Mr, Thomas Drake Martinez,Cardeza,male,36,0,1,1,512.3292,C,3,S,1,Adults,1
+51, Mrs, James Warburton Martinez (Charlotte Wardle Drake),Cardeza,female,58,0,1,1,512.3292,C,3,S,1,Adults,1
+52, Mr, Frans Olof,Carlsson,male,33,0,0,1,5,S,DNS,BNR,0,Adults,0
+53, Mr, Francisco M,Carrau,male,28,0,0,1,47.1,S,DNS,BNR,0,Adults,0
+54, Mr, Jose Pedro,Carrau,male,17,0,0,1,47.1,S,DNS,BNR,0,Teenagers,0
+55, Master, William Thornton II,Carter,male,11,1,2,1,120,S,4,S,1,Children,3
+56, Miss, Lucile Polk,Carter,female,14,1,2,1,120,S,4,S,1,Teenagers,3
+57, Mr, William Ernest,Carter,male,36,1,2,1,120,S,C,S,1,Adults,3
+58, Mrs, William Ernest (Lucile Polk),Carter,female,36,1,2,1,120,S,4,S,1,Adults,3
+59, Mr, Howard Brown,Case,male,49,0,0,1,26,S,DNS,BNR,0,Adults,0
+60, Mrs, Henry Arthur Jr (Eleanor Genevieve Fosdick),Cassebeer,female,45,0,0,1,27.7208,C,5,S,1,Adults,0
+61, Mr, Tyrell William,Cavendish,male,36,1,0,1,78.85,S,DNS,172,0,Adults,1
+62, Mrs, Tyrell William (Julia Florence Siegel),Cavendish,female,76,1,0,1,78.85,S,6,S,1,Seniors,1
+63, Mr, Herbert Fuller,Chaffee,male,46,1,0,1,61.175,S,DNS,BNR,0,Adults,1
+64, Mrs, Herbert Fuller (Carrie Constance Toogood),Chaffee,female,47,1,0,1,61.175,S,4,S,1,Adults,1
+65, Mr, Norman Campbell,Chambers,male,27,1,0,1,53.1,S,5,S,1,Adults,1
+66, Mrs, Norman Campbell (Bertha Griggs),Chambers,female,33,1,0,1,53.1,S,5,S,1,Adults,1
+67, Miss, Victorine,Chaudanson,female,36,0,0,1,262.375,C,4,S,1,Adults,0
+68, Miss, Gladys,Cherry,female,30,0,0,1,86.5,S,8,S,1,Adults,0
+69, Mr, Paul Romaine,Chevre,male,45,0,0,1,29.7,C,7,S,1,Adults,0
+70, Mrs, (Edith Martha Bowerman),Chibnall,female,45,0,1,1,55,S,6,S,1,Adults,1
+71, Mr, Roderick Robert Crispin,Chisholm,male,41.5,0,0,1,0,S,DNS,BNR,0,Adults,0
+72, Mr, Walter Miller,Clark,male,27,1,0,1,136.7792,C,DNS,BNR,0,Adults,1
+73, Mrs, Walter Miller (Virginia McDowell),Clark,female,26,1,0,1,136.7792,C,4,S,1,Adults,1
+74, Miss, Alice,Cleaver,female,22,0,0,1,151.55,S,11,S,1,Adults,0
+75, Mr, George Quincy,Clifford,male,41.5,0,0,1,52,S,DNS,BNR,0,Adults,0
+76, Mr, Edward Pomeroy,Colley,male,47,0,0,1,25.5875,S,DNS,BNR,0,Adults,0
+77, Miss, Sara Rebecca,Compton,female,39,1,1,1,83.1583,C,14,S,1,Adults,2
+78, Mr, Alexander Taylor Jr,Compton,male,37,1,1,1,83.1583,C,DNS,BNR,0,Adults,2
+79, Mrs, Alexander Taylor (Mary Eliza Ingersoll),Compton,female,64,0,2,1,83.1583,C,14,S,1,Seniors,2
+80, Mrs, Robert Clifford (Malvina Helen Lamson),Cornell,female,55,2,0,1,25.7,S,2,S,1,Adults,2
+81, Mr, John Bertram,Crafton,male,41.5,0,0,1,26.55,S,DNS,BNR,0,Adults,0
+82, Capt, Edward Gifford,Crosby,male,70,1,1,1,71,S,DNS,269,0,Seniors,2
+83, Miss, Harriet R,Crosby,female,36,0,2,1,71,S,7,S,1,Adults,2
+84, Mrs, Edward Gifford (Catherine Elizabeth Halstead),Crosby,female,64,1,1,1,26.55,S,7,S,1,Seniors,2
+85, Mr, John Bradley,Cumings,male,39,1,0,1,71.2833,C,DNS,BNR,0,Adults,1
+86, Mrs, John Bradley (Florence Briggs Thayer),Cumings,female,38,1,0,1,71.2833,C,4,S,1,Adults,1
+87, Mr, Peter Denis ,Daly,male,51,0,0,1,26.55,S,5 9,S,1,Adults,0
+88, Mr, Robert Williams,Daniel,male,27,0,0,1,30.5,S,3,S,1,Adults,0
+89, Miss, Sarah,Daniels,female,33,0,0,1,151.55,S,8,S,1,Adults,0
+90, Mr, Thornton,Davidson,male,31,1,0,1,52,S,DNS,BNR,0,Adults,1
+91, Mrs, Thornton (Orian Hays),Davidson,female,27,1,2,1,52,S,3,S,1,Adults,3
+92, Mr, Albert Adrian,Dick,male,31,1,0,1,57,S,3,S,1,Adults,1
+93, Mrs, Albert Adrian (Vera Gillespie),Dick,female,17,1,0,1,57,S,3,S,1,Teenagers,1
+94, Dr, Washington,Dodge,male,53,1,1,1,81.8583,S,13,S,1,Adults,2
+95, Master, Washington,Dodge,male,4,0,2,1,81.8583,S,5,S,1,Children,2
+96, Mrs, Washington (Ruth Vidaver),Dodge,female,54,1,1,1,81.8583,S,5,S,1,Adults,2
+97, Mr, Walter Donald,Douglas,male,50,1,0,1,106.425,C,DNS,62,0,Adults,1
+98, Mrs, Frederick Charles (Mary Helene Baxter),Douglas,female,27,1,1,1,247.5208,C,6,S,1,Adults,2
+99, Mrs, Walter Donald (Mahala Dutton),Douglas,female,48,1,0,1,106.425,C,2,S,1,Adults,1
+100, Lady," (Lucille Christiana Sutherland) (""Mrs Morgan"")",Duff Gordon,female,48,1,0,1,39.6,C,1,S,1,Adults,1
+101, Sir," Cosmo Edmund (""Mr Morgan"")",Duff Gordon,male,49,1,0,1,56.9292,C,1,S,1,Adults,1
+102, Mr, William Crothers,Dulles,male,39,0,0,1,29.7,C,DNS,133,0,Adults,0
+103, Mrs, Boulton (Olive Potter),Earnshaw,female,23,0,1,1,83.1583,C,7,S,1,Adults,1
+104, Miss, Caroline Louise,Endres,female,38,0,0,1,227.525,C,4,S,1,Adults,0
+105, Miss, Elizabeth Mussey,Eustis,female,54,1,0,1,78.2667,C,4,S,1,Adults,1
+106, Miss, Edith Corse,Evans,female,36,0,0,1,31.6792,C,DNS,BNR,0,Adults,0
+107, Mr, John,Farthing,male,41.5,0,0,1,221.7792,S,DNS,BNR,0,Adults,0
+108, Mrs, Alfred (Antoinette),Flegenheim,female,45,0,0,1,31.6833,S,7,S,1,Adults,0
+109, Miss, Margaret,Fleming,female,30,0,0,1,110.8833,C,4,S,1,Adults,0
+110, Mr," John Irwin (""Irving"")",Flynn,male,36,0,0,1,26.3875,S,5,S,1,Adults,0
+111, Mr, Benjamin Laventall,Foreman,male,30,0,0,1,27.75,C,DNS,BNR,0,Adults,0
+112, Miss, Alice Elizabeth,Fortune,female,24,3,2,1,263,S,10,S,1,Adults,5
+113, Miss, Ethel Flora,Fortune,female,28,3,2,1,263,S,10,S,1,Adults,5
+114, Miss, Mabel Helen,Fortune,female,23,3,2,1,263,S,10,S,1,Adults,5
+115, Mr, Charles Alexander,Fortune,male,19,3,2,1,263,S,DNS,BNR,0,Adults,5
+116, Mr, Mark,Fortune,male,64,1,4,1,263,S,DNS,BNR,0,Seniors,5
+117, Mrs, Mark (Mary McDougald),Fortune,female,60,1,4,1,263,S,10,S,1,Seniors,5
+118, Miss, Laura Mabel,Francatelli,female,30,0,0,1,56.9292,C,1,S,1,Adults,0
+119, Mr, Thomas Parham,Franklin,male,41.5,0,0,1,26.55,S,DNS,BNR,0,Adults,0
+120, Dr, Henry William,Frauenthal,male,50,2,0,1,133.65,S,5,S,1,Adults,2
+121, Mr, Isaac Gerald,Frauenthal,male,43,1,0,1,27.7208,C,5,S,1,Adults,1
+122, Mrs, Henry William (Clara Heinsheimer),Frauenthal,female,45,1,0,1,133.65,S,5,S,1,Adults,1
+123, Miss, Hedwig Margaritha,Frolicher,female,22,0,2,1,49.5,C,5,S,1,Adults,2
+124, Mr, Maxmillian,Frolicher-Stehli,male,60,1,1,1,79.2,C,5,S,1,Seniors,2
+125, Mrs, Maxmillian (Margaretha Emerentia Stehli),Frolicher-Stehli,female,48,1,1,1,79.2,C,5,S,1,Adults,2
+126, Mr, Richard,Fry,male,41.5,0,0,1,0,S,DNS,BNR,0,Adults,0
+127, Mr, Jacques Heath,Futrelle,male,37,1,0,1,53.1,S,DNS,BNR,0,Adults,1
+128, Mrs, Jacques Heath (Lily May Peel),Futrelle,female,35,1,0,1,53.1,S,D,S,1,Adults,1
+129, Mr, Arthur H,Gee,male,47,0,0,1,38.5,S,DNS,275,0,Adults,0
+130, Miss, Amalie,Geiger,female,35,0,0,1,211.5,C,4,S,1,Adults,0
+131, Miss, Dorothy Winifred,Gibson,female,22,0,1,1,59.4,C,7,S,1,Adults,1
+132, Mrs, Leonard (Pauline C Boeson),Gibson,female,45,0,1,1,59.4,C,7,S,1,Adults,1
+133, Mr, Victor,Giglio,male,24,0,0,1,79.2,C,DNS,BNR,0,Adults,0
+134, Mr, Samuel L,Goldenberg,male,49,1,0,1,89.1042,C,5,S,1,Adults,1
+135, Mrs, Samuel L (Edwiga Grabowska),Goldenberg,female,45,1,0,1,89.1042,C,5,S,1,Adults,1
+136, Mr, George B,Goldschmidt,male,71,0,0,1,34.6542,C,DNS,BNR,0,Seniors,0
+137, Col, Archibald IV,Gracie,male,53,0,0,1,28.5,C,B,S,1,Adults,0
+138, Miss, Margaret Edith,Graham,female,19,0,0,1,30,S,3,S,1,Adults,0
+139, Mr, George Edward,Graham,male,38,0,1,1,153.4625,S,DNS,147,0,Adults,1
+140, Mrs, William Thompson (Edith Junkins),Graham,female,58,0,1,1,153.4625,S,3,S,1,Adults,1
+141, Mr, William Bertram,Greenfield,male,23,0,1,1,63.3583,C,7,S,1,Adults,1
+142, Mrs, Leo David (Blanche Strouse),Greenfield,female,45,0,1,1,63.3583,C,7,S,1,Adults,1
+143, Mr, Benjamin,Guggenheim,male,46,0,0,1,79.2,C,DNS,BNR,0,Adults,0
+144, Mr, George Achilles,Harder,male,25,1,0,1,55.4417,C,5,S,1,Adults,1
+145, Mrs, George Achilles (Dorothy Annan),Harder,female,25,1,0,1,55.4417,C,5,S,1,Adults,1
+146, Mr, Henry Sleeper,Harper,male,48,1,0,1,76.7292,C,3,S,1,Adults,1
+147, Mrs, Henry Sleeper (Myna Haxtun),Harper,female,49,1,0,1,76.7292,C,3,S,1,Adults,1
+148, Mr, Charles H,Harrington,male,41.5,0,0,1,42.4,S,DNS,BNR,0,Adults,0
+149, Mr, Henry Birkhardt,Harris,male,45,1,0,1,83.475,S,DNS,BNR,0,Adults,1
+150, Mrs, Henry Birkhardt (Irene Wallach),Harris,female,35,1,0,1,83.475,S,D,S,1,Adults,1
+151, Mr, William,Harrison,male,40,0,0,1,0,S,DNS,110,0,Adults,0
+152, Mr, Hammad,Hassab,male,27,0,0,1,76.7292,C,3,S,1,Adults,0
+153, Mr, Walter James,Hawksford,male,41.5,0,0,1,30,S,3,S,1,Adults,0
+154, Miss, Margaret Bechstein,Hays,female,24,0,0,1,83.1583,C,7,S,1,Adults,0
+155, Mr, Charles Melville,Hays,male,55,1,1,1,93.5,S,DNS,307,0,Adults,2
+156, Mrs, Charles Melville (Clara Jennings Gregg),Hays,female,52,1,1,1,93.5,S,3,S,1,Adults,2
+157, Mr, Christopher,Head,male,42,0,0,1,42.5,S,DNS,BNR,0,Adults,0
+158, Mr, Herbert Henry,Hilliard,male,41.5,0,0,1,51.8625,S,DNS,BNR,0,Adults,0
+159, Mr, William Edward,Hipkins,male,55,0,0,1,50,S,DNS,BNR,0,Adults,0
+160, Miss, Jean Gertrude,Hippach,female,16,0,1,1,57.9792,C,4,S,1,Teenagers,1
+161, Mrs, Louis Albert (Ida Sophia Fischer),Hippach,female,44,0,1,1,57.9792,C,4,S,1,Adults,1
+162, Mrs, John C (Anna Andrews),Hogeboom,female,51,1,0,1,77.9583,S,10,S,1,Adults,1
+163, Mr, Alexander Oskar,Holverson,male,42,1,0,1,52,S,DNS,38,0,Adults,1
+164, Mrs, Alexander Oskar (Mary Aline Towner),Holverson,female,35,1,0,1,52,S,8,S,1,Adults,1
+165, Mr," Harry (""Mr E Haven"")",Homer,male,35,0,0,1,26.55,C,15,S,1,Adults,0
+166, Mr, Frederick Maxfield,Hoyt,male,38,1,0,1,90,S,D,S,1,Adults,1
+167, Mr, William Fisher,Hoyt,male,41.5,0,0,1,30.6958,C,14,BNR,0,Adults,0
+168, Mrs, Frederick Maxfield (Jane Anne Forby),Hoyt,female,35,1,0,1,90,S,D,S,1,Adults,1
+169, Miss, Amelie,Icard,female,38,0,0,1,80,S,6,S,1,Adults,0
+170, Miss, Ann Elizabeth,Isham,female,50,0,0,1,28.7125,C,DNS,BNR,0,Adults,0
+171, Mr, Joseph Bruce,Ismay,male,49,0,0,1,0,S,C,S,1,Adults,0
+172, Mr, Charles Cresson,Jones,male,46,0,0,1,26,S,DNS,80,0,Adults,0
+173, Mr, Henry Forbes,Julian,male,50,0,0,1,26,S,DNS,BNR,0,Adults,0
+174, Mr, Edwin,Keeping,male,32.5,0,0,1,211.5,C,DNS,45,0,Adults,0
+175, Mr, Edward Austin,Kent,male,58,0,0,1,29.7,C,DNS,258,0,Adults,0
+176, Mr, Frederick R,Kenyon,male,41,1,0,1,51.8625,S,DNS,BNR,0,Adults,1
+177, Mrs, Frederick R (Marion),Kenyon,female,45,1,0,1,51.8625,S,8,S,1,Adults,1
+178, Mr, Edwin Nelson Jr,Kimball,male,42,1,0,1,52.5542,S,5,S,1,Adults,1
+179, Mrs, Edwin Nelson Jr (Gertrude Parsons),Kimball,female,45,1,0,1,52.5542,S,5,S,1,Adults,1
+180, Mr, Herman,Klaber,male,41.5,0,0,1,26.55,S,DNS,BNR,0,Adults,0
+181, Miss, Emilie,Kreuchen,female,39,0,0,1,211.3375,S,2,S,1,Adults,0
+182, Dr, Alice (Farnham),Leader,female,49,0,0,1,25.9292,S,8,S,1,Adults,0
+183, Miss, Bertha,LeRoy,female,30,0,0,1,106.425,C,2,S,1,Adults,0
+184, Mr, Gustave J,Lesurer,male,35,0,0,1,512.3292,C,3,S,1,Adults,0
+185, Mr, Ervin G,Lewy,male,41.5,0,0,1,27.7208,C,DNS,BNR,0,Adults,0
+186, Mr," Erik Gustaf (""Mr Edward Lingrey"")",Lindeberg-Lind,male,42,0,0,1,26.55,S,DNS,BNR,0,Adults,0
+187, Mrs, Carl Johan (Sigrid Posse),Lindstrom,female,55,0,0,1,27.7208,C,6,S,1,Adults,0
+188, Miss, Mary Conover,Lines,female,16,0,1,1,39.4,S,9,S,1,Teenagers,1
+189, Mrs, Ernest H (Elizabeth Lindsey James),Lines,female,51,0,1,1,39.4,S,9,S,1,Adults,1
+190, Mr, Milton Clyde,Long,male,29,0,0,1,30,S,DNS,126,0,Adults,0
+191, Miss, Gretchen Fiske,Longley,female,21,0,0,1,77.9583,S,10,S,1,Adults,0
+192, Mr, Joseph Holland,Loring,male,30,0,0,1,45.5,S,DNS,BNR,0,Adults,0
+193, Miss, Elise,Lurette,female,58,0,0,1,146.5208,C,DNS,S,1,Adults,0
+194, Miss, Georgette Alexandra,Madill,female,15,0,1,1,211.3375,S,2,S,1,Teenagers,1
+195, Mr, John Edward,Maguire,male,30,0,0,1,26,S,DNS,BNR,0,Adults,0
+196, Miss, Roberta,Maioni,female,16,0,0,1,86.5,S,8,S,1,Teenagers,0
+197, Mr, Pierre,Marechal,male,41.5,0,0,1,29.7,C,7,S,1,Adults,0
+198, Mr, Daniel Warner,Marvin,male,19,1,0,1,53.1,S,DNS,BNR,0,Adults,1
+199, Mrs, Daniel Warner (Mary Graham Carmichael Farquarson),Marvin,female,18,1,0,1,53.1,S,10,S,1,Teenagers,1
+200, Mlle," Berthe Antonine (""Mrs de Villiers"")",Mayne,female,24,0,0,1,49.5042,C,6,S,1,Adults,0
+201, Mr, Thomas Francis,McCaffry,male,46,0,0,1,75.2417,C,DNS,292,0,Adults,0
+202, Mr, Timothy J,McCarthy,male,54,0,0,1,51.8625,S,DNS,175,0,Adults,0
+203, Mr, James Robert,McGough,male,36,0,0,1,26.2875,S,7,S,1,Adults,0
+204, Mr, Edgar Joseph,Meyer,male,28,1,0,1,82.1708,C,DNS,BNR,0,Adults,1
+205, Mrs, Edgar Joseph (Leila Saks),Meyer,female,45,1,0,1,82.1708,C,6,S,1,Adults,1
+206, Mr, Francis Davis,Millet,male,65,0,0,1,26.55,S,DNS,249,0,Seniors,0
+207, Dr, William Edward,Minahan,male,44,2,0,1,90,Q,DNS,230,0,Adults,2
+208, Miss, Daisy E,Minahan,female,33,1,0,1,90,Q,14,S,1,Adults,1
+209, Mrs, William Edward (Lillian E Thorpe),Minahan,female,37,1,0,1,90,Q,14,S,1,Adults,1
+210, Mr, Philipp Edmund,Mock,male,30,1,0,1,57.75,C,11,S,1,Adults,1
+211, Mr, Harry Markland,Molson,male,55,0,0,1,30.5,S,DNS,BNR,0,Adults,0
+212, Mr, Clarence Bloomfield,Moore,male,47,0,0,1,42.4,S,DNS,BNR,0,Adults,0
+213, Mr, Charles H,Natsch,male,37,0,1,1,29.7,C,DNS,BNR,0,Adults,1
+214, Miss, Madeleine,Newell,female,31,1,0,1,113.275,C,6,S,1,Adults,1
+215, Miss, Marjorie,Newell,female,23,1,0,1,113.275,C,6,S,1,Adults,1
+216, Mr, Arthur Webster,Newell,male,58,0,2,1,113.275,C,DNS,122,0,Adults,2
+217, Miss, Helen Monypeny,Newsom,female,19,0,2,1,26.2833,S,5,S,1,Adults,2
+218, Mr, Arthur Ernest,Nicholson,male,64,0,0,1,26,S,DNS,263,0,Seniors,0
+219, Dona, Fermina,Oliva y Ocana,female,39,0,0,1,108.9,C,8,S,1,Adults,0
+220, Mr, Alfred Fernand,Omont,male,41.5,0,0,1,25.7417,C,7,S,1,Adults,0
+221, Miss, Helene Ragnhild,Ostby,female,22,0,1,1,61.9792,C,5,S,1,Adults,1
+222, Mr, Engelhart Cornelius,Ostby,male,65,0,1,1,61.9792,C,DNS,234,0,Seniors,1
+223, Mr, Servando,Ovies y Rodriguez,male,28.5,0,0,1,27.7208,C,DNS,189,0,Adults,0
+224, Mr, William Henry Marsh,Parr,male,41.5,0,0,1,0,S,DNS,BNR,0,Adults,0
+225, Mr, Austen,Partner,male,45.5,0,0,1,28.5,S,DNS,166,0,Adults,0
+226, Mr, Vivian Ponsonby,Payne,male,23,0,0,1,93.5,S,DNS,BNR,0,Adults,0
+227, Mr, Thomas Clinton,Pears,male,29,1,0,1,66.6,S,DNS,BNR,0,Adults,1
+228, Mrs, Thomas (Edith Wearne),Pears,female,22,1,0,1,66.6,S,8,S,1,Adults,1
+229, Mr, Victor de Satode,Penasco y Castellana,male,18,1,0,1,108.9,C,DNS,BNR,0,Teenagers,1
+230, Mrs, Victor de Satode (Maria Josefa Perez de Soto y Vallejo),Penasco y Castellana,female,17,1,0,1,108.9,C,8,S,1,Teenagers,1
+231, Miss, Anne,Perreault,female,30,0,0,1,93.5,S,3,S,1,Adults,0
+232, Major, Arthur Godfrey,Peuchen,male,52,0,0,1,30.5,S,6,S,1,Adults,0
+233, Mr, Walter Chamberlain,Porter,male,47,0,0,1,52,S,DNS,207,0,Adults,0
+234, Mrs, Thomas Jr (Lily Alexenia Wilson),Potter,female,56,0,1,1,83.1583,C,7,S,1,Adults,1
+235, Jonkheer, John George,Reuchlin,male,38,0,0,1,0,S,DNS,BNR,0,Adults,0
+236, Mr, George Alexander Lucien,Rheims,male,41.5,0,0,1,39.6,S,A,S,1,Adults,0
+237, Mr, Sante,Ringhini,male,22,0,0,1,135.6333,C,DNS,232,0,Adults,0
+238, Mr, Victor,Robbins,male,41.5,0,0,1,227.525,C,DNS,BNR,0,Adults,0
+239, Mrs, Edward Scott (Elisabeth Walton McMillan),Robert,female,43,0,1,1,211.3375,S,2,S,1,Adults,1
+240, Mr, Washington Augustus II,Roebling,male,31,0,0,1,50.4958,S,DNS,BNR,0,Adults,0
+241, Mr," Charles Hallace (""Mr C Rolmane"")",Romaine,male,45,0,0,1,26.55,S,9,S,1,Adults,0
+242, Mr, Hugh Roscoe,Rood,male,41.5,0,0,1,50,S,DNS,BNR,0,Adults,0
+243, Miss, Edith Louise,Rosenbaum,female,33,0,0,1,27.7208,C,11,S,1,Adults,0
+244, Mr," George (""Mr George Thorne"")",Rosenshine,male,46,0,0,1,79.2,C,DNS,16,0,Adults,0
+245, Mr, John Hugo,Ross,male,36,0,0,1,40.125,C,DNS,BNR,0,Adults,0
+246, the Countess, of (Lucy Noel Martha Dyer-Edwards),Rothes,female,33,0,0,1,86.5,S,8,S,1,Adults,0
+247, Mr, Martin,Rothschild,male,55,1,0,1,59.4,C,DNS,BNR,0,Adults,1
+248, Mrs, Martin (Elizabeth L. Barrett),Rothschild,female,54,1,0,1,59.4,C,6,S,1,Adults,1
+249, Mr, Alfred G,Rowe,male,33,0,0,1,26.55,S,DNS,109,0,Adults,0
+250, Master, John Borie,Ryerson,male,13,2,2,1,262.375,C,4,S,1,Teenagers,4
+251, Miss, Emily Borie,Ryerson,female,18,2,2,1,262.375,C,4,S,1,Teenagers,4
+252, Miss," Susan Parker ""Suzette""",Ryerson,female,21,2,2,1,262.375,C,4,S,1,Adults,4
+253, Mr, Arthur Larned,Ryerson,male,61,1,3,1,262.375,C,DNS,BNR,0,Seniors,4
+254, Mrs, Arthur Larned (Emily Maria Borie),Ryerson,female,48,1,3,1,262.375,C,4,S,1,Adults,4
+255, Mr, Adolphe,Saalfeld,male,41.5,0,0,1,30.5,S,3,S,1,Adults,0
+256, Mlle, Emma,Sagesser,female,24,0,0,1,69.3,C,9,S,1,Adults,0
+257, Mr, Abraham L,Salomon,male,41.5,0,0,1,26,S,1,S,1,Adults,0
+258, Mrs, Paul (Emma Mock),Schabert,female,35,1,0,1,57.75,C,11,S,1,Adults,1
+259, Miss, Augusta,Serepeca,female,30,0,0,1,31,C,4,S,1,Adults,0
+260, Mr, Frederic Kimber,Seward,male,34,0,0,1,26.55,S,7,S,1,Adults,0
+261, Miss, Elizabeth W,Shutes,female,40,0,0,1,153.4625,S,3,S,1,Adults,0
+262, Mr, Spencer Victor,Silverthorne,male,35,0,0,1,26.2875,S,5,S,1,Adults,0
+263, Mr, William Baird,Silvey,male,50,1,0,1,55.9,S,DNS,BNR,0,Adults,1
+264, Mrs, William Baird (Alice Munger),Silvey,female,39,1,0,1,55.9,S,11,S,1,Adults,1
+265, Col, Oberst Alfons,Simonius-Blumer,male,56,0,0,1,35.5,C,3,S,1,Adults,0
+266, Mr, William Thompson,Sloper,male,28,0,0,1,35.5,S,7,S,1,Adults,0
+267, Mr, John Montgomery,Smart,male,56,0,0,1,26.55,S,DNS,BNR,0,Adults,0
+268, Mr, James Clinch,Smith,male,56,0,0,1,30.6958,C,DNS,BNR,0,Adults,0
+269, Mr, Lucien Philip,Smith,male,24,1,0,1,60,S,DNS,BNR,0,Adults,1
+270, Mr, Richard William,Smith,male,41.5,0,0,1,26,S,DNS,BNR,0,Adults,0
+271, Mrs, Lucien Philip (Mary Eloise Hughes),Smith,female,18,1,0,1,60,S,6,S,1,Teenagers,1
+272, Mr, John Pillsbury,Snyder,male,24,1,0,1,82.2667,S,7,S,1,Adults,1
+273, Mrs, John Pillsbury (Nelle Stevenson),Snyder,female,23,1,0,1,82.2667,S,7,S,1,Adults,1
+274, Master, Robert Douglas,Spedden,male,6,0,2,1,134.5,C,3,S,1,Children,2
+275, Mr, Frederic Oakley,Spedden,male,45,1,1,1,134.5,C,3,S,1,Adults,2
+276, Mrs, Frederic Oakley (Margaretta Corning Stone),Spedden,female,40,1,1,1,134.5,C,3,S,1,Adults,2
+277, Mr, William Augustus,Spencer,male,57,1,0,1,146.5208,C,DNS,BNR,0,Adults,1
+278, Mrs, William Augustus (Marie Eugenie),Spencer,female,45,1,0,1,146.5208,C,6,S,1,Adults,1
+279, Dr, Max,Stahelin-Maeglin,male,32,0,0,1,30.5,C,3,S,1,Adults,0
+280, Mr, William Thomas,Stead,male,62,0,0,1,26.55,S,DNS,BNR,0,Seniors,0
+281, Mr, Charles Emil Henry,Stengel,male,54,1,0,1,55.4417,C,1,S,1,Adults,1
+282, Mrs, Charles Emil Henry (Annie May Morris),Stengel,female,43,1,0,1,55.4417,C,5,S,1,Adults,1
+283, Mrs, Walter Bertram (Martha Eustis),Stephenson,female,52,1,0,1,78.2667,C,4,S,1,Adults,1
+284, Mr, Albert A,Stewart,male,41.5,0,0,1,27.7208,C,DNS,BNR,0,Adults,0
+285, Mrs, George Nelson (Martha Evelyn),Stone,female,62,0,0,1,80,S,6,S,1,Seniors,0
+286, Mr, Isidor,Straus,male,67,1,0,1,221.7792,S,DNS,96,0,Seniors,1
+287, Mrs, Isidor (Rosalie Ida Blun),Straus,female,63,1,0,1,221.7792,S,DNS,BNR,0,Seniors,1
+288, Mr, Frederick,Sutton,male,61,0,0,1,32.3208,S,DNS,46,0,Seniors,0
+289, Mrs, Frederick Joel (Margaret Welles Barron),Swift,female,48,0,0,1,25.9292,S,8,S,1,Adults,0
+290, Miss, Ruth,Taussig,female,18,0,2,1,79.65,S,8,S,1,Teenagers,2
+291, Mr, Emil,Taussig,male,52,1,1,1,79.65,S,DNS,BNR,0,Adults,2
+292, Mrs, Emil (Tillie Mandelbaum),Taussig,female,39,1,1,1,79.65,S,8,S,1,Adults,2
+293, Mr, Elmer Zebley,Taylor,male,48,1,0,1,52,S,5 7,S,1,Adults,1
+294, Mrs, Elmer Zebley (Juliet Cummins Wright),Taylor,female,45,1,0,1,52,S,5 7,S,1,Adults,1
+295, Mr, John Borland,Thayer,male,49,1,1,1,110.8833,C,DNS,BNR,0,Adults,2
+296, Mr, John Borland Jr,Thayer,male,17,0,2,1,110.8833,C,B,S,1,Teenagers,2
+297, Mrs, John Borland (Marian Longstreth Morris),Thayer,female,39,1,1,1,110.8833,C,4,S,1,Adults,2
+298, Mrs, Gertrude Maybelle,Thorne,female,45,0,0,1,79.2,C,D,S,1,Adults,0
+299, Mr, Gilbert Milligan Jr,Tucker,male,31,0,0,1,28.5375,C,7,S,1,Adults,0
+300, Don, Manuel E,Uruchurtu,male,40,0,0,1,27.7208,C,DNS,BNR,0,Adults,0
+301, Mr, Wyckoff,Van der hoef,male,61,0,0,1,33.5,S,DNS,245,0,Seniors,0
+302, Mr, William Anderson,Walker,male,47,0,0,1,34.0208,S,DNS,BNR,0,Adults,0
+303, Miss, Anna,Ward,female,35,0,0,1,512.3292,C,3,S,1,Adults,0
+304, Mr, Frank Manley,Warren,male,64,1,0,1,75.25,C,DNS,BNR,0,Seniors,1
+305, Mrs, Frank Manley (Anna Sophia Atkinson),Warren,female,60,1,0,1,75.25,C,5,S,1,Seniors,1
+306, Col, John,Weir,male,60,0,0,1,26.55,S,DNS,BNR,0,Seniors,0
+307, Mr, Percival Wayland,White,male,54,0,1,1,77.2875,S,DNS,BNR,0,Adults,1
+308, Mr, Richard Frasar,White,male,21,0,1,1,77.2875,S,DNS,169,0,Adults,1
+309, Mrs, John Stuart (Ella Holmes),White,female,55,0,0,1,135.6333,C,8,S,1,Adults,0
+310, Miss, Mary Natalie,Wick,female,31,0,2,1,164.8667,S,8,S,1,Adults,2
+311, Mr, George Dennick,Wick,male,57,1,1,1,164.8667,S,DNS,BNR,0,Adults,2
+312, Mrs, George Dennick (Mary Hitchcock),Wick,female,45,1,1,1,164.8667,S,8,S,1,Adults,2
+313, Mr, George Dunton,Widener,male,50,1,1,1,211.5,C,DNS,BNR,0,Adults,2
+314, Mr, Harry Elkins,Widener,male,27,0,2,1,211.5,C,DNS,BNR,0,Adults,2
+315, Mrs, George Dunton (Eleanor Elkins),Widener,female,50,1,1,1,211.5,C,4,S,1,Adults,2
+316, Miss, Constance,Willard,female,21,0,0,1,26.55,S,8 10,S,1,Adults,0
+317, Mr, Charles Duane,Williams,male,51,0,1,1,61.3792,C,DNS,BNR,0,Adults,1
+318, Mr, Richard Norris II,Williams,male,21,0,1,1,61.3792,C,A,S,1,Adults,1
+319, Mr, Fletcher Fellows,Williams-Lambert,male,41.5,0,0,1,35,S,DNS,BNR,0,Adults,0
+320, Miss, Helen Alice,Wilson,female,31,0,0,1,134.5,C,3,S,1,Adults,0
+321, Mr, Hugh,Woolner,male,41.5,0,0,1,35.5,S,D,S,1,Adults,0
+322, Mr, George,Wright,male,62,0,0,1,26.55,S,DNS,BNR,0,Seniors,0
+323, Miss, Marie Grice,Young,female,36,0,0,1,135.6333,C,8,S,1,Adults,0
+324, Mr, Samuel,Abelson,male,30,1,0,2,24,C,DNS,BNR,0,Adults,1
+325, Mrs, Samuel (Hannah Wizosky),Abelson,female,28,1,0,2,24,C,10,S,1,Adults,1
+326, Mr, Charles Augustus,Aldworth,male,30,0,0,2,13,S,DNS,BNR,0,Adults,0
+327, Mr, Edgardo Samuel,Andrew,male,18,0,0,2,11.5,S,DNS,BNR,0,Teenagers,0
+328, Mr, Frank Thomas,Andrew,male,25,0,0,2,10.5,S,DNS,BNR,0,Adults,0
+329, Mr, William A,Angle,male,34,1,0,2,26,S,DNS,BNR,0,Adults,1
+330, Mrs," William A (Florence ""Mary"" Agnes Hughes)",Angle,female,36,1,0,2,26,S,11,S,1,Adults,1
+331, Mr, John,Ashby,male,57,0,0,2,13,S,DNS,BNR,0,Adults,0
+332, Mr, Percy Andrew,Bailey,male,18,0,0,2,11.5,S,DNS,BNR,0,Teenagers,0
+333, Mr, Charles Robert,Baimbrigge,male,23,0,0,2,10.5,S,DNS,BNR,0,Adults,0
+334, Mrs, (Ada E Hall),Ball,female,36,0,0,2,13,S,10,S,1,Adults,0
+335, Mr, Frederick James,Banfield,male,28,0,0,2,10.5,S,DNS,BNR,0,Adults,0
+336, Rev, Robert James,Bateman,male,51,0,0,2,12.525,S,DNS,174,0,Adults,0
+337, Mr, Edward,Beane,male,32,1,0,2,26,S,13,S,1,Adults,1
+338, Mrs, Edward (Ethel Clarke),Beane,female,19,1,0,2,26,S,13,S,1,Adults,1
+339, Mr, Henry James,Beauchamp,male,28,0,0,2,26,S,DNS,BNR,0,Adults,0
+340, Master, Richard F,Becker,male,1,2,1,2,39,S,11,S,1,Children,3
+341, Miss, Marion Louise,Becker,female,4,2,1,2,39,S,11,S,1,Children,3
+342, Miss, Ruth Elizabeth,Becker,female,12,2,1,2,39,S,13,S,1,Teenagers,3
+343, Mrs, Allen Oliver (Nellie E Baumgardner),Becker,female,36,0,3,2,39,S,11,S,1,Adults,3
+344, Mr, Lawrence,Beesley,male,34,0,0,2,13,S,13,S,1,Adults,0
+345, Miss, Lilian W,Bentham,female,19,0,0,2,13,S,12,S,1,Adults,0
+346, Mr, William John,Berriman,male,23,0,0,2,13,S,DNS,BNR,0,Adults,0
+347, Mr, William Hull,Botsford,male,26,0,0,2,13,S,DNS,BNR,0,Adults,0
+348, Mr, Solomon,Bowenur,male,42,0,0,2,13,S,DNS,BNR,0,Adults,0
+349, Mr, James H,Bracken,male,27,0,0,2,13,S,DNS,BNR,0,Adults,0
+350, Miss," Amelia ""Mildred""",Brown,female,24,0,0,2,13,S,11,S,1,Adults,0
+351, Miss, Edith Eileen,Brown,female,15,0,2,2,39,S,14,S,1,Teenagers,2
+352, Mr, Thomas William Solomon,Brown,male,60,1,1,2,39,S,DNS,BNR,0,Seniors,2
+353, Mrs, Thomas William Solomon (Elizabeth Catherine Ford),Brown,female,40,1,1,2,39,S,14,S,1,Adults,2
+354, Miss, Dagmar Jenny Ingeborg ,Bryhl,female,20,1,0,2,26,S,12,S,1,Adults,1
+355, Mr, Kurt Arnold Gottfrid,Bryhl,male,25,1,0,2,26,S,DNS,BNR,0,Adults,1
+356, Miss, Kate,Buss,female,36,0,0,2,13,S,9,S,1,Adults,0
+357, Mr, Reginald Fenton,Butler,male,25,0,0,2,13,S,DNS,97,0,Adults,0
+358, Rev, Thomas Roussel Davids,Byles,male,42,0,0,2,13,S,DNS,BNR,0,Adults,0
+359, Mrs, (Karolina),Bystrom,female,42,0,0,2,13,S,DNS,S,1,Adults,0
+360, Master, Alden Gates,Caldwell,male,0.8333,0,2,2,29,S,13,S,1,Children,2
+361, Mr, Albert Francis,Caldwell,male,26,1,1,2,29,S,13,S,1,Adults,2
+362, Mrs, Albert Francis (Sylvia Mae Harbaugh),Caldwell,female,22,1,1,2,29,S,13,S,1,Adults,2
+363, Miss, Clear Annie,Cameron,female,35,0,0,2,21,S,14,S,1,Adults,0
+364, Mr, William,Campbell,male,30,0,0,2,0,S,DNS,BNR,0,Adults,0
+365, Mr, William,Carbines,male,19,0,0,2,13,S,DNS,18,0,Adults,0
+366, Mrs, Ernest Courtenay (Lilian Hughes),Carter,female,44,1,0,2,26,S,DNS,BNR,0,Adults,1
+367, Rev, Ernest Courtenay,Carter,male,54,1,0,2,26,S,DNS,BNR,0,Adults,1
+368, Mr, Charles Henry,Chapman,male,52,0,0,2,13.5,S,DNS,130,0,Adults,0
+369, Mr, John Henry,Chapman,male,37,1,0,2,26,S,DNS,17,0,Adults,1
+370, Mrs, John Henry (Sara Elizabeth Lawry),Chapman,female,29,1,0,2,26,S,DNS,BNR,0,Adults,1
+371, Miss, Julie Rachel,Christy,female,25,1,1,2,30,S,12,S,1,Adults,2
+372, Mrs, (Alice Frances),Christy,female,45,0,2,2,30,S,12,S,1,Adults,2
+373, Mr, Charles Valentine,Clarke,male,29,1,0,2,26,S,DNS,BNR,0,Adults,1
+374, Mrs, Charles V (Ada Maria Winfield),Clarke,female,28,1,0,2,26,S,14,S,1,Adults,1
+375, Mr, Reginald Charles,Coleridge,male,29,0,0,2,10.5,S,DNS,BNR,0,Adults,0
+376, Mr, Erik Gustaf,Collander,male,28,0,0,2,13,S,DNS,BNR,0,Adults,0
+377, Mr, Sidney C Stuart,Collett,male,24,0,0,2,10.5,S,9,S,1,Adults,0
+378, Miss," Marjorie ""Lottie""",Collyer,female,8,0,2,2,26.25,S,14,S,1,Children,2
+379, Mr, Harvey,Collyer,male,31,1,1,2,26.25,S,DNS,BNR,0,Adults,2
+380, Mrs, Harvey (Charlotte Annie Tate),Collyer,female,31,1,1,2,26.25,S,14,S,1,Adults,2
+381, Mrs, (Selena Rogers),Cook,female,22,0,0,2,10.5,S,14,S,1,Adults,0
+382, Mrs, Walter H (Irene Colvin),Corbett,female,30,0,0,2,13,S,DNS,BNR,0,Adults,0
+383, Mrs, Percy C (Mary Phyllis Elizabeth Miller),Corey,female,30.5,0,0,2,21,S,DNS,BNR,0,Adults,0
+384, Mr," Henry ""Harry""",Cotterill,male,21,0,0,2,11.5,S,DNS,BNR,0,Adults,0
+385, Mr, Alfred Fleming,Cunningham,male,30,0,0,2,0,S,DNS,BNR,0,Adults,0
+386, Master, John Morgan Jr,Davies,male,8,1,1,2,36.75,S,14,S,1,Children,2
+387, Mr, Charles Henry,Davies,male,18,0,0,2,73.5,S,DNS,BNR,0,Teenagers,0
+388, Mrs, John Morgan (Elizabeth Agnes Mary White) ,Davies,female,48,0,2,2,36.75,S,14,S,1,Adults,2
+389, Miss, Mary,Davis,female,28,0,0,2,13,S,13,S,1,Adults,0
+390, Mr, Jose Joaquim,de Brito,male,32,0,0,2,13,S,DNS,BNR,0,Adults,0
+391, Mr, Percy William,Deacon,male,17,0,0,2,73.5,S,DNS,BNR,0,Teenagers,0
+392, Mr, Sebastiano,del Carlo,male,29,1,0,2,27.7208,C,DNS,295,0,Adults,1
+393, Mrs, Sebastiano (Argenia Genovesi),del Carlo,female,24,1,0,2,27.7208,C,12,S,1,Adults,1
+394, Mr, Herbert,Denbury,male,25,0,0,2,31.5,S,DNS,BNR,0,Adults,0
+395, Mr, William,Dibden,male,18,0,0,2,73.5,S,DNS,BNR,0,Teenagers,0
+396, Miss, Elsie,Doling,female,18,0,1,2,23,S,DNS,S,1,Teenagers,1
+397, Mrs, John T (Ada Julia Bone),Doling,female,34,0,1,2,23,S,DNS,S,1,Adults,1
+398, Mr, William James,Downton,male,54,0,0,2,26,S,DNS,BNR,0,Adults,0
+399, Master, Marshall Brines,Drew,male,8,0,2,2,32.5,S,10,S,1,Children,2
+400, Mr, James Vivian,Drew,male,42,1,1,2,32.5,S,DNS,BNR,0,Adults,2
+401, Mrs, James Vivian (Lulu Thorne Christian),Drew,female,34,1,1,2,32.5,S,10,S,1,Adults,2
+402, Miss, Asuncion,Duran y More,female,27,1,0,2,13.8583,C,12,S,1,Adults,1
+403, Miss, Florentina,Duran y More,female,30,1,0,2,13.8583,C,12,S,1,Adults,1
+404, Mr, George Floyd,Eitemiller,male,23,0,0,2,13,S,DNS,BNR,0,Adults,0
+405, Mr, Ingvar,Enander,male,21,0,0,2,13,S,DNS,BNR,0,Adults,0
+406, Mr, Arne Jonas,Fahlstrom,male,18,0,0,2,13,S,DNS,BNR,0,Teenagers,0
+407, Mr, Harry,Faunthorpe,male,40,1,0,2,26,S,DNS,286,0,Adults,1
+408, Mrs, Lizzie (Elizabeth Anne Wilkinson),Faunthorpe,female,29,1,0,2,26,S,16,S,1,Adults,1
+409, Mr, Joseph Charles,Fillbrook,male,18,0,0,2,10.5,S,DNS,BNR,0,Teenagers,0
+410, Mr, Stanley Hubert,Fox,male,36,0,0,2,13,S,DNS,236,0,Adults,0
+411, Mr," Anthony Wood ""Archie""",Frost,male,30,0,0,2,0,S,DNS,BNR,0,Adults,0
+412, Miss, Annie Clemmer,Funk,female,38,0,0,2,13,S,DNS,BNR,0,Adults,0
+413, Mr, Joseph J,Fynney,male,35,0,0,2,26,S,DNS,322,0,Adults,0
+414, Mr, Harry,Gale,male,38,1,0,2,21,S,DNS,BNR,0,Adults,1
+415, Mr, Shadrach,Gale,male,34,1,0,2,21,S,DNS,BNR,0,Adults,1
+416, Miss, Ethel,Garside,female,34,0,0,2,13,S,12,S,1,Adults,0
+417, Mr, Alfred,Gaskell,male,16,0,0,2,26,S,DNS,BNR,0,Teenagers,0
+418, Mr, Lawrence,Gavey,male,26,0,0,2,10.5,S,DNS,BNR,0,Adults,0
+419, Mr, William,Gilbert,male,47,0,0,2,10.5,S,DNS,BNR,0,Adults,0
+420, Mr, Edgar,Giles,male,21,1,0,2,11.5,S,DNS,BNR,0,Adults,1
+421, Mr, Frederick Edward,Giles,male,21,1,0,2,11.5,S,DNS,BNR,0,Adults,1
+422, Mr, Ralph,Giles,male,24,0,0,2,13.5,S,DNS,297,0,Adults,0
+423, Mr, John William,Gill,male,24,0,0,2,13,S,DNS,155,0,Adults,0
+424, Mr, William Henry,Gillespie,male,34,0,0,2,13,S,DNS,BNR,0,Adults,0
+425, Mr, Hans Kristensen,Givard,male,30,0,0,2,13,S,DNS,305,0,Adults,0
+426, Mr, Samuel,Greenberg,male,52,0,0,2,13,S,DNS,19,0,Adults,0
+427, Mr, Reginald,Hale,male,30,0,0,2,13,S,DNS,75,0,Adults,0
+428, Master, Viljo,Hamalainen,male,0.6667,1,1,2,14.5,S,4,S,1,Children,2
+429, Mrs, William (Anna),Hamalainen,female,24,0,2,2,14.5,S,4,S,1,Adults,2
+430, Mr, William H,Harbeck,male,44,0,0,2,13,S,DNS,35,0,Adults,0
+431, Miss," Annie Jessie ""Nina""",Harper,female,6,0,1,2,33,S,11,S,1,Children,1
+432, Rev, John,Harper,male,28,0,1,2,33,S,DNS,BNR,0,Adults,1
+433, Mr, George,Harris,male,62,0,0,2,10.5,S,15,S,1,Seniors,0
+434, Mr, Walter,Harris,male,30,0,0,2,10.5,S,DNS,BNR,0,Adults,0
+435, Miss, Eva Miriam,Hart,female,7,0,2,2,26.25,S,14,S,1,Children,2
+436, Mr, Benjamin,Hart,male,43,1,1,2,26.25,S,DNS,BNR,0,Adults,2
+437, Mrs, Benjamin (Esther Ada Bloomfield),Hart,female,45,1,1,2,26.25,S,14,S,1,Adults,2
+438, Miss, Alice,Herman,female,24,1,2,2,65,S,9,S,1,Adults,3
+439, Miss, Kate,Herman,female,24,1,2,2,65,S,9,S,1,Adults,3
+440, Mr, Samuel,Herman,male,49,1,2,2,65,S,DNS,BNR,0,Adults,3
+441, Mrs, Samuel (Jane Laver),Herman,female,48,1,2,2,65,S,9,S,1,Adults,3
+442, Mrs, (Mary D Kingcome) ,Hewlett,female,55,0,0,2,16,S,13,S,1,Adults,0
+443, Mr, Leonard Mark,Hickman,male,24,2,0,2,73.5,S,DNS,BNR,0,Adults,2
+444, Mr, Lewis,Hickman,male,32,2,0,2,73.5,S,DNS,256,0,Adults,2
+445, Mr, Stanley George,Hickman,male,21,2,0,2,73.5,S,DNS,BNR,0,Adults,2
+446, Miss, Marta,Hiltunen,female,18,1,1,2,13,S,DNS,BNR,0,Teenagers,2
+447, Miss," Ellen ""Nellie""",Hocking,female,20,2,1,2,23,S,4,S,1,Adults,3
+448, Mr, Richard George,Hocking,male,23,2,1,2,11.5,S,DNS,BNR,0,Adults,3
+449, Mr, Samuel James Metcalfe,Hocking,male,36,0,0,2,13,S,DNS,BNR,0,Adults,0
+450, Mrs, Elizabeth (Eliza Needs),Hocking,female,54,1,3,2,23,S,4,S,1,Adults,4
+451, Mr, Henry Price,Hodges,male,50,0,0,2,13,S,DNS,149,0,Adults,0
+452, Mr, Stephen,Hold,male,44,1,0,2,26,S,DNS,BNR,0,Adults,1
+453, Mrs, Stephen (Annie Margaret Hill),Hold,female,29,1,0,2,26,S,10,S,1,Adults,1
+454, Mr, Ambrose Jr,Hood,male,21,0,0,2,73.5,S,DNS,BNR,0,Adults,0
+455, Mr, Masabumi,Hosono,male,42,0,0,2,13,S,10,S,1,Adults,0
+456, Mr, Benjamin,Howard,male,63,1,0,2,26,S,DNS,BNR,0,Seniors,1
+457, Mrs, Benjamin (Ellen Truelove Arman),Howard,female,60,1,0,2,26,S,DNS,BNR,0,Seniors,1
+458, Mr, George Henry,Hunt,male,33,0,0,2,12.275,S,DNS,BNR,0,Adults,0
+459, Miss, Bertha,Ilett,female,17,0,0,2,10.5,S,DNS,S,1,Teenagers,0
+460, Mr, Sidney Samuel,Jacobsohn,male,42,1,0,2,27,S,DNS,BNR,0,Adults,1
+461, Mrs, Sidney Samuel (Amy Frances Christy),Jacobsohn,female,24,2,1,2,27,S,12,S,1,Adults,3
+462, Mr, John Denzil,Jarvis,male,47,0,0,2,15,S,DNS,BNR,0,Adults,0
+463, Mr, Clifford Thomas,Jefferys,male,24,2,0,2,31.5,S,DNS,BNR,0,Adults,2
+464, Mr, Ernest Wilfred,Jefferys,male,22,2,0,2,31.5,S,DNS,BNR,0,Adults,2
+465, Mr, Stephen Curnow,Jenkin,male,32,0,0,2,10.5,S,DNS,BNR,0,Adults,0
+466, Mrs, Amin S (Marie Marthe Thuillard),Jerwan,female,23,0,0,2,13.7917,C,11,S,1,Adults,0
+467, Mr, Sinai,Kantor,male,34,1,0,2,26,S,DNS,283,0,Adults,1
+468, Mrs, Sinai (Miriam Sternin),Kantor,female,24,1,0,2,26,S,12,S,1,Adults,1
+469, Mrs, J Frank (Claire Bennett),Karnes,female,22,0,0,2,21,S,DNS,BNR,0,Adults,0
+470, Miss, Nora A,Keane,female,20,0,0,2,12.35,Q,10,S,1,Adults,0
+471, Mr, Daniel,Keane,male,35,0,0,2,12.35,Q,DNS,BNR,0,Adults,0
+472, Mrs," Florence ""Fannie""",Kelly,female,45,0,0,2,13.5,S,9,S,1,Adults,0
+473, Rev, Charles Leonard,Kirkland,male,57,0,0,2,12.35,Q,DNS,BNR,0,Adults,0
+474, Mr, Robert J,Knight,male,30,0,0,2,0,S,DNS,BNR,0,Adults,0
+475, Mr, Johan Henrik Johannesson,Kvillner,male,31,0,0,2,10.5,S,DNS,165,0,Adults,0
+476, Mrs, William (Anna Sylfven),Lahtinen,female,26,1,1,2,26,S,DNS,BNR,0,Adults,2
+477, Rev, William,Lahtinen,male,30,1,1,2,26,S,DNS,BNR,0,Adults,2
+478, Mr, John Joseph,Lamb,male,30,0,0,2,10.7083,Q,DNS,BNR,0,Adults,0
+479, Miss, Louise,Laroche,female,1,1,2,2,41.5792,C,14,S,1,Children,3
+480, Miss, Simonne Marie Anne Andree,Laroche,female,3,1,2,2,41.5792,C,14,S,1,Children,3
+481, Mr, Joseph Philippe Lemercier,Laroche,male,25,1,2,2,41.5792,C,DNS,BNR,0,Adults,3
+482, Mrs, Joseph (Juliette Marie Louise Lafargue),Laroche,female,22,1,2,2,41.5792,C,14,S,1,Adults,3
+483, Miss, Bertha,Lehmann,female,17,0,0,2,12,C,12,S,1,Teenagers,0
+484, Miss, Jessie Wills,Leitch,female,20,0,0,2,33,S,11,S,1,Adults,0
+485, Mrs, (Amelia Milley),Lemore,female,34,0,0,2,10.5,S,14,S,1,Adults,0
+486, Mr, Rene Jacques,Levy,male,36,0,0,2,12.875,C,DNS,BNR,0,Adults,0
+487, Mr, Robert William Norman,Leyson,male,24,0,0,2,10.5,S,DNS,108,0,Adults,0
+488, Mr, John,Lingane,male,61,0,0,2,12.35,Q,DNS,BNR,0,Seniors,0
+489, Mr, Charles Alexander,Louch,male,50,1,0,2,26,S,DNS,121,0,Adults,1
+490, Mrs, Charles Alexander (Alice Adelaide Slow),Louch,female,42,1,0,2,26,S,DNS,S,1,Adults,1
+491, Mrs, (Mary),Mack,female,57,0,0,2,10.5,S,DNS,52,0,Adults,0
+492, Mr, Noel,Malachard,male,30,0,0,2,15.0458,C,DNS,BNR,0,Adults,0
+493, Master, Andre,Mallet,male,1,0,2,2,37.0042,C,10,S,1,Children,2
+494, Mr, Albert,Mallet,male,31,1,1,2,37.0042,C,DNS,BNR,0,Adults,2
+495, Mrs, Albert (Antoinette Magnin),Mallet,female,24,1,1,2,37.0042,C,10,S,1,Adults,2
+496, Mr, Serafino Emilio,Mangiavacchi,male,30,0,0,2,15.5792,C,DNS,BNR,0,Adults,0
+497, Mr, William John,Matthews,male,30,0,0,2,13,S,DNS,BNR,0,Adults,0
+498, Mr, Frank Hubert,Maybery,male,40,0,0,2,16,S,DNS,BNR,0,Adults,0
+499, Mr, Arthur Gordon,McCrae,male,32,0,0,2,13.5,S,DNS,209,0,Adults,0
+500, Mr, James Matthew,McCrie,male,30,0,0,2,13,S,DNS,BNR,0,Adults,0
+501, Mr, Peter David,McKane,male,46,0,0,2,26,S,DNS,BNR,0,Adults,0
+502, Miss, Madeleine Violet,Mellinger,female,13,0,1,2,19.5,S,14,S,1,Teenagers,1
+503, Mrs, (Elizabeth Anne Maidment),Mellinger,female,41,0,1,2,19.5,S,14,S,1,Adults,1
+504, Mr, William John,Mellors,male,19,0,0,2,10.5,S,B,S,1,Adults,0
+505, Mr, August,Meyer,male,39,0,0,2,13,S,DNS,BNR,0,Adults,0
+506, Mr, Jacob Christian,Milling,male,48,0,0,2,13,S,DNS,271,0,Adults,0
+507, Mr, Henry Michael,Mitchell,male,70,0,0,2,10.5,S,DNS,BNR,0,Seniors,0
+508, Rev, Juozas,Montvila,male,27,0,0,2,13,S,DNS,BNR,0,Adults,0
+509, Dr, Ernest,Moraweck,male,54,0,0,2,14,S,DNS,BNR,0,Adults,0
+510, Mr," Henry Samuel (""Mr Henry Marshall"")",Morley,male,39,0,0,2,26,S,DNS,BNR,0,Adults,0
+511, Mr, Thomas Charles,Mudd,male,16,0,0,2,10.5,S,DNS,BNR,0,Teenagers,0
+512, Mr, Thomas Francis,Myles,male,62,0,0,2,9.6875,Q,DNS,BNR,0,Seniors,0
+513, Mr, Nicholas,Nasser,male,32.5,1,0,2,30.0708,C,DNS,43,0,Adults,1
+514, Mrs, Nicholas (Adele Achem),Nasser,female,14,1,0,2,30.0708,C,DNS,S,1,Teenagers,1
+515, Master, Edmond Roger,Navratil,male,2,1,1,2,26,S,D,S,1,Children,2
+516, Master, Michel M,Navratil,male,3,1,1,2,26,S,D,S,1,Children,2
+517, Mr," Michel (""Louis M Hoffman"")",Navratil,male,36.5,0,2,2,26,S,DNS,15,0,Adults,2
+518, Mr, Israel,Nesson,male,26,0,0,2,13,S,DNS,BNR,0,Adults,0
+519, Mr, Joseph Charles,Nicholls,male,19,1,1,2,36.75,S,DNS,101,0,Adults,2
+520, Mr, Robert Douglas,Norman,male,28,0,0,2,13.5,S,DNS,287,0,Adults,0
+521, Mr," Alfred (""Baron von Drachstedt"")",Nourney,male,20,0,0,2,13.8625,C,7,S,1,Adults,0
+522, Mrs, (Elizabeth Ramell),Nye,female,29,0,0,2,10.5,S,11,S,1,Adults,0
+523, Mr, Richard,Otter,male,39,0,0,2,13,S,DNS,BNR,0,Adults,0
+524, Mr, Percy Thomas,Oxenham,male,22,0,0,2,10.5,S,13,S,1,Adults,0
+525, Mr, Julian,Padro y Manent,male,30,0,0,2,13.8625,C,9,S,1,Adults,0
+526, Dr, Alfred,Pain,male,23,0,0,2,10.5,S,DNS,BNR,0,Adults,0
+527, Mr, Emilio,Pallas y Castello,male,29,0,0,2,13.8583,C,9,S,1,Adults,0
+528, Mr, Clifford Richard,Parker,male,28,0,0,2,10.5,S,DNS,BNR,0,Adults,0
+529, Mr," Francis ""Frank""",Parkes,male,30,0,0,2,0,S,DNS,BNR,0,Adults,0
+530, Mrs, (Lutie Davis),Parrish,female,50,0,1,2,26,S,12,S,1,Adults,1
+531, Mr, Frederick William,Pengelly,male,19,0,0,2,10.5,S,DNS,BNR,0,Adults,0
+532, Mr, Rene,Pernot,male,30,0,0,2,15.05,C,DNS,BNR,0,Adults,0
+533, Rev, Joseph Maria,Peruschitz,male,41,0,0,2,13,S,DNS,BNR,0,Adults,0
+534, Miss, Alice Frances Louisa,Phillips,female,21,0,1,2,21,S,12,S,1,Adults,1
+535, Miss," Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Phillips,female,19,0,0,2,26,S,11,S,1,Adults,0
+536, Mr, Escott Robert,Phillips,male,43,0,1,2,21,S,DNS,BNR,0,Adults,1
+537, Mrs, (Rosa),Pinsky,female,32,0,0,2,13,S,9,S,1,Adults,0
+538, Mr, Martin,Ponesell,male,34,0,0,2,13,S,DNS,BNR,0,Adults,0
+539, Mr, Emilio Ilario Giuseppe,Portaluppi,male,30,0,0,2,12.7375,C,14,S,1,Adults,0
+540, Mr, Franz,Pulbaum,male,27,0,0,2,15.0333,C,DNS,BNR,0,Adults,0
+541, Miss, Phyllis May,Quick,female,2,1,1,2,26,S,11,S,1,Children,2
+542, Miss, Winifred Vera,Quick,female,8,1,1,2,26,S,11,S,1,Children,2
+543, Mrs, Frederick Charles (Jane Richards),Quick,female,33,0,2,2,26,S,11,S,1,Adults,2
+544, Mr, David,Reeves,male,36,0,0,2,10.5,S,DNS,BNR,0,Adults,0
+545, Mr, Peter Henry,Renouf,male,34,1,0,2,21,S,12,BNR,0,Adults,1
+546, Mrs, Peter Henry (Lillian Jefferys),Renouf,female,30,3,0,2,21,S,DNS,S,1,Adults,3
+547, Ms, Encarnacion,Reynaldo,female,28,0,0,2,13,S,9,S,1,Adults,0
+548, Mr, Emile,Richard,male,23,0,0,2,15.0458,C,DNS,BNR,0,Adults,0
+549, Master, George Sibley,Richards,male,0.8333,1,1,2,18.75,S,4,S,1,Children,2
+550, Master, William Rowe,Richards,male,3,1,1,2,18.75,S,4,S,1,Children,2
+551, Mrs, Sidney (Emily Hocking),Richards,female,24,2,3,2,18.75,S,4,S,1,Adults,5
+552, Miss, Lucy,Ridsdale,female,50,0,0,2,10.5,S,13,S,1,Adults,0
+553, Mr, Reginald Harry,Rogers,male,19,0,0,2,10.5,S,DNS,BNR,0,Adults,0
+554, Miss, Emily,Rugg,female,21,0,0,2,10.5,S,12,S,1,Adults,0
+555, Mr, August,Schmidt,male,26,0,0,2,13,S,DNS,BNR,0,Adults,0
+556, Mr, Charles Frederick Waddington,Sedgwick,male,25,0,0,2,13,S,DNS,BNR,0,Adults,0
+557, Mr, Percival James R,Sharp,male,27,0,0,2,26,S,DNS,BNR,0,Adults,0
+558, Mrs, William (Imanita Parrish Hall),Shelley,female,25,0,1,2,26,S,12,S,1,Adults,1
+559, Miss, Lyyli Karoliina,Silven,female,18,0,2,2,13,S,16,S,1,Teenagers,2
+560, Miss, Maude,Sincock,female,20,0,0,2,36.75,S,11,S,1,Adults,0
+561, Miss, Anna,Sinkkonen,female,30,0,0,2,13,S,10,S,1,Adults,0
+562, Mr, Ernst Adolf,Sjostedt,male,59,0,0,2,13.5,S,DNS,BNR,0,Seniors,0
+563, Miss, Hilda Mary,Slayter,female,30,0,0,2,12.35,Q,13,S,1,Adults,0
+564, Mr, Richard James,Slemen,male,35,0,0,2,10.5,S,DNS,BNR,0,Adults,0
+565, Miss, Marion Elsie,Smith,female,40,0,0,2,13,S,9,S,1,Adults,0
+566, Mr, Samuel James Hayden,Sobey,male,25,0,0,2,13,S,DNS,BNR,0,Adults,0
+567, Mr, Samuel Ward,Stanton,male,41,0,0,2,15.0458,C,DNS,BNR,0,Adults,0
+568, Mr, Philip Joseph,Stokes,male,25,0,0,2,10.5,S,DNS,81,0,Adults,0
+569, Mr, George,Swane,male,18.5,0,0,2,13,S,DNS,294,0,Teenagers,0
+570, Mr, George Frederick,Sweet,male,14,0,0,2,65,S,DNS,BNR,0,Teenagers,0
+571, Miss, Ellen,Toomey,female,50,0,0,2,10.5,S,9,S,1,Adults,0
+572, Mr, Moses Aaron,Troupiansky,male,23,0,0,2,13,S,DNS,BNR,0,Adults,0
+573, Mrs, William H (Jessie L),Trout,female,28,0,0,2,12.65,S,DNS,S,1,Adults,0
+574, Miss," Edwina Celia ""Winnie""",Troutt,female,27,0,0,2,10.5,S,16,S,1,Adults,0
+575, Mr, William John Robert,Turpin,male,29,1,0,2,21,S,DNS,BNR,0,Adults,1
+576, Mrs, William John Robert (Dorothy Ann Wonnacott),Turpin,female,27,1,0,2,21,S,DNS,BNR,0,Adults,1
+577, Mr, James,Veal,male,40,0,0,2,13,S,DNS,BNR,0,Adults,0
+578, Miss, Nellie,Walcroft,female,31,0,0,2,21,S,14,S,1,Adults,0
+579, Mr, John James,Ware,male,30,1,0,2,21,S,DNS,BNR,0,Adults,1
+580, Mr, William Jeffery,Ware,male,23,1,0,2,10.5,S,DNS,BNR,0,Adults,1
+581, Mrs, John James (Florence Louise Long),Ware,female,31,0,0,2,21,S,10,S,1,Adults,0
+582, Mr, Ennis Hastings,Watson,male,30,0,0,2,0,S,DNS,BNR,0,Adults,0
+583, Miss, Bertha J,Watt,female,12,0,0,2,15.75,S,9,S,1,Teenagers,0
+584, Mrs," James (Elizabeth ""Bessie"" Inglis Milne)",Watt,female,40,0,0,2,15.75,S,9,S,1,Adults,0
+585, Miss, Susan,Webber,female,32.5,0,0,2,13,S,12,S,1,Adults,0
+586, Mr, Leopold,Weisz,male,27,1,0,2,26,S,DNS,293,0,Adults,1
+587, Mrs, Leopold (Mathilde Francoise Pede),Weisz,female,29,1,0,2,26,S,10,S,1,Adults,1
+588, Master, Ralph Lester,Wells,male,2,1,1,2,23,S,14,S,1,Children,2
+589, Miss, Joan,Wells,female,4,1,1,2,23,S,14,S,1,Children,2
+590, Mrs," Arthur Henry (""Addie"" Dart Trevaskis)",Wells,female,29,0,2,2,23,S,14,S,1,Adults,2
+591, Miss, Barbara J,West,female,0.9167,1,2,2,27.75,S,10,S,1,Children,3
+592, Miss, Constance Mirium,West,female,5,1,2,2,27.75,S,10,S,1,Children,3
+593, Mr, Edwy Arthur,West,male,36,1,2,2,27.75,S,DNS,BNR,0,Adults,3
+594, Mrs, Edwy Arthur (Ada Mary Worth),West,female,33,1,2,2,27.75,S,10,S,1,Adults,3
+595, Mr, Edward H,Wheadon,male,66,0,0,2,10.5,S,DNS,BNR,0,Seniors,0
+596, Mr," Edwin ""Frederick""",Wheeler,male,30,0,0,2,12.875,S,DNS,BNR,0,Adults,0
+597, Mr, Charles,Wilhelms,male,31,0,0,2,13,S,9,S,1,Adults,0
+598, Mr, Charles Eugene,Williams,male,30,0,0,2,13,S,14,S,1,Adults,0
+599, Miss, Marion,Wright,female,26,0,0,2,13.5,S,9,S,1,Adults,0
+600, Miss," Henriette (""Mrs Harbeck"")",Yrois,female,24,0,0,2,13,S,DNS,BNR,0,Adults,0
+601, Mr, Anthony,Abbing,male,42,0,0,3,7.55,S,DNS,BNR,0,Adults,0
+602, Master, Eugene Joseph,Abbott,male,13,0,2,3,20.25,S,DNS,BNR,0,Teenagers,2
+603, Mr, Rossmore Edward,Abbott,male,16,1,1,3,20.25,S,DNS,190,0,Teenagers,2
+604, Mrs, Stanton (Rosa Hunt),Abbott,female,35,1,1,3,20.25,S,A,S,1,Adults,2
+605, Miss, Karen Marie,Abelseth,female,16,0,0,3,7.65,S,16,S,1,Teenagers,0
+606, Mr, Olaus Jorgensen,Abelseth,male,25,0,0,3,7.65,S,A,S,1,Adults,0
+607, Mr, Abraham August Johannes,Abrahamsson,male,20,0,0,3,7.925,S,15,S,1,Adults,0
+608, Mrs, Joseph (Sophie Halaut Easu),Abrahim,female,18,0,0,3,7.2292,C,C,S,1,Teenagers,0
+609, Mr, Mauritz Nils Martin,Adahl,male,30,0,0,3,7.25,S,DNS,72,0,Adults,0
+610, Mr, John,Adams,male,26,0,0,3,8.05,S,DNS,103,0,Adults,0
+611, Mrs, Johan (Johanna Persdotter Larsson),Ahlin,female,40,1,0,3,9.475,S,DNS,BNR,0,Adults,1
+612, Master, Philip Frank,Aks,male,0.8333,0,1,3,9.35,S,11,S,1,Children,1
+613, Mrs, Sam (Leah Rosen),Aks,female,18,0,1,3,9.35,S,13,S,1,Teenagers,1
+614, Mr, Nassef Cassem,Albimona,male,26,0,0,3,18.7875,C,15,S,1,Adults,0
+615, Mr, William,Alexander,male,26,0,0,3,7.8875,S,DNS,BNR,0,Adults,0
+616, Mr, Ilmari Rudolf,Alhomaki,male,20,0,0,3,7.925,S,DNS,BNR,0,Adults,0
+617, Mr, Ahmed,Ali,male,24,0,0,3,7.05,S,DNS,BNR,0,Adults,0
+618, Mr, William,Ali,male,25,0,0,3,7.05,S,DNS,79,0,Adults,0
+619, Mr, William Henry,Allen,male,35,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+620, Mr, Owen George,Allum,male,18,0,0,3,8.3,S,DNS,259,0,Teenagers,0
+621, Mr, Albert Karvin,Andersen,male,32,0,0,3,22.525,S,DNS,260,0,Adults,0
+622, Miss, Carla Christine Nielsine,Andersen-Jensen,female,19,1,0,3,7.8542,S,16,S,1,Adults,1
+623, Master, Sigvard Harald Elias,Andersson,male,4,4,2,3,31.275,S,DNS,BNR,0,Children,6
+624, Miss, Ebba Iris Alfrida,Andersson,female,6,4,2,3,31.275,S,DNS,BNR,0,Children,6
+625, Miss, Ellis Anna Maria,Andersson,female,2,4,2,3,31.275,S,DNS,BNR,0,Children,6
+626, Miss, Erna Alexandra,Andersson,female,17,4,2,3,7.925,S,D,S,1,Teenagers,6
+627, Miss, Ida Augusta Margareta,Andersson,female,38,4,2,3,7.775,S,DNS,BNR,0,Adults,6
+628, Miss, Ingeborg Constanzia,Andersson,female,9,4,2,3,31.275,S,DNS,BNR,0,Children,6
+629, Miss, Sigrid Elisabeth,Andersson,female,11,4,2,3,31.275,S,DNS,BNR,0,Children,6
+630, Mr, Anders Johan,Andersson,male,39,1,5,3,31.275,S,DNS,BNR,0,Adults,6
+631, Mr," August Edvard (""Wennerstrom"")",Andersson,male,27,0,0,3,7.7958,S,A,S,1,Adults,0
+632, Mr, Johan Samuel,Andersson,male,26,0,0,3,7.775,S,DNS,BNR,0,Adults,0
+633, Mrs, Anders Johan (Alfrida Konstantia Brogren),Andersson,female,39,1,5,3,31.275,S,DNS,BNR,0,Adults,6
+634, Mr, Paul Edvin,Andreasson,male,20,0,0,3,7.8542,S,DNS,BNR,0,Adults,0
+635, Mr, Minko,Angheloff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+636, Mr, Josef,Arnold-Franchi,male,25,1,0,3,17.8,S,DNS,BNR,0,Adults,1
+637, Mrs, Josef (Josefine Franchi),Arnold-Franchi,female,18,1,0,3,17.8,S,DNS,BNR,0,Teenagers,1
+638, Mr, Ernst Axel Algot,Aronsson,male,24,0,0,3,7.775,S,DNS,BNR,0,Adults,0
+639, Mr, Adola,Asim,male,35,0,0,3,7.05,S,DNS,BNR,0,Adults,0
+640, Master, Carl Edgar,Asplund,male,5,4,2,3,31.3875,S,DNS,BNR,0,Children,6
+641, Master, Clarence Gustaf Hugo,Asplund,male,9,4,2,3,31.3875,S,DNS,BNR,0,Children,6
+642, Master, Edvin Rojj Felix,Asplund,male,3,4,2,3,31.3875,S,15,S,1,Children,6
+643, Master, Filip Oscar,Asplund,male,13,4,2,3,31.3875,S,DNS,BNR,0,Teenagers,6
+644, Miss, Lillian Gertrud,Asplund,female,5,4,2,3,31.3875,S,15,S,1,Children,6
+645, Mr, Carl Oscar Vilhelm Gustafsson,Asplund,male,40,1,5,3,31.3875,S,DNS,142,0,Adults,6
+646, Mr, Johan Charles,Asplund,male,23,0,0,3,7.7958,S,13,S,1,Adults,0
+647, Mrs, Carl Oscar (Selma Augusta Emilia Johansson),Asplund,female,38,1,5,3,31.3875,S,15,S,1,Adults,6
+648, Mrs," Mariana (""Miriam"")",Assaf Khalil,female,45,0,0,3,7.225,C,C,S,1,Adults,0
+649, Mr, Gerios,Assaf,male,21,0,0,3,7.225,C,DNS,BNR,0,Adults,0
+650, Mr, Ali,Assam,male,23,0,0,3,7.05,S,DNS,BNR,0,Adults,0
+651, Miss, Malake,Attalah,female,17,0,0,3,14.4583,C,DNS,BNR,0,Teenagers,0
+652, Mr, Sleiman,Attalah,male,30,0,0,3,7.225,C,DNS,BNR,0,Adults,0
+653, Mr, Albert,Augustsson,male,23,0,0,3,7.8542,S,DNS,BNR,0,Adults,0
+654, Miss, Banoura,Ayoub,female,13,0,0,3,7.2292,C,C,S,1,Teenagers,0
+655, Mr, Raffull,Baccos,male,20,0,0,3,7.225,C,DNS,BNR,0,Adults,0
+656, Mr, Karl Alfred,Backstrom,male,32,1,0,3,15.85,S,D,BNR,0,Adults,1
+657, Mrs, Karl Alfred (Maria Mathilda Gustafsson),Backstrom,female,33,3,0,3,15.85,S,DNS,S,1,Adults,3
+658, Miss, Eugenie,Baclini,female,0.75,2,1,3,19.2583,C,C,S,1,Children,3
+659, Miss, Helene Barbara,Baclini,female,0.75,2,1,3,19.2583,C,C,S,1,Children,3
+660, Miss, Marie Catherine,Baclini,female,5,2,1,3,19.2583,C,C,S,1,Children,3
+661, Mrs, Solomon (Latifa Qurban),Baclini,female,24,0,3,3,19.2583,C,C,S,1,Adults,3
+662, Miss, Emily Louisa,Badman,female,18,0,0,3,8.05,S,C,S,1,Teenagers,0
+663, Mr, Mohamed,Badt,male,40,0,0,3,7.225,C,DNS,BNR,0,Adults,0
+664, Mr, Cerin,Balkic,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+665, Mr, Hanna Assi,Barah,male,20,0,0,3,7.2292,C,15,S,1,Adults,0
+666, Miss, Saiide,Barbara,female,18,0,1,3,14.4542,C,DNS,BNR,0,Teenagers,1
+667, Mrs, (Catherine David),Barbara,female,45,0,1,3,14.4542,C,DNS,BNR,0,Adults,1
+668, Miss, Julia,Barry,female,27,0,0,3,7.8792,Q,DNS,BNR,0,Adults,0
+669, Mr, David John,Barton,male,22,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+670, Mr, William Thomas,Beavan,male,19,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+671, Mr, John Viktor,Bengtsson,male,26,0,0,3,7.775,S,DNS,BNR,0,Adults,0
+672, Mr, Karl Ivar Sven,Berglund,male,22,0,0,3,9.35,S,DNS,BNR,0,Adults,0
+673, Master, Seman,Betros,male,6,0,0,3,7.2292,C,DNS,BNR,0,Children,0
+674, Mr, Tannous,Betros,male,20,0,0,3,4.0125,C,DNS,BNR,0,Adults,0
+675, Mr, Lee,Bing,male,32,0,0,3,56.4958,S,C,S,1,Adults,0
+676, Mr, Hans Martin Monsen,Birkeland,male,21,0,0,3,7.775,S,DNS,BNR,0,Adults,0
+677, Mr, Ernst Herbert,Bjorklund,male,18,0,0,3,7.75,S,DNS,BNR,0,Teenagers,0
+678, Mr, Guentcho,Bostandyeff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+679, Master, Akar,Boulos,male,6,1,1,3,15.2458,C,DNS,BNR,0,Children,2
+680, Miss, Nourelain,Boulos,female,9,1,1,3,15.2458,C,DNS,BNR,0,Children,2
+681, Mr, Hanna,Boulos,male,26,0,0,3,7.225,C,DNS,BNR,0,Adults,0
+682, Mrs, Joseph (Sultana),Boulos,female,31,0,2,3,15.2458,C,DNS,BNR,0,Adults,2
+683, Miss, Mary,Bourke,female,18,0,2,3,7.75,Q,DNS,BNR,0,Teenagers,2
+684, Mr, John,Bourke,male,40,1,1,3,15.5,Q,DNS,BNR,0,Adults,2
+685, Mrs, John (Catherine),Bourke,female,32,1,1,3,15.5,Q,DNS,BNR,0,Adults,2
+686, Mr," David John ""Dai""",Bowen,male,21,0,0,3,16.1,S,DNS,BNR,0,Adults,0
+687, Miss, Bridget Delia,Bradley,female,22,0,0,3,7.725,Q,13,S,1,Adults,0
+688, Miss, Elin Ester Maria,Braf,female,20,0,0,3,7.8542,S,DNS,BNR,0,Adults,0
+689, Mr, Lewis Richard,Braund,male,29,1,0,3,7.0458,S,DNS,BNR,0,Adults,1
+690, Mr, Owen Harris,Braund,male,22,1,0,3,7.25,S,DNS,BNR,0,Adults,1
+691, Mr, Karl Rudolf,Brobeck,male,22,0,0,3,7.7958,S,DNS,BNR,0,Adults,0
+692, Mr, William Alfred,Brocklebank,male,35,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+693, Miss, Katherine,Buckley,female,18.5,0,0,3,7.2833,Q,DNS,299,0,Teenagers,0
+694, Mr, Daniel,Buckley,male,21,0,0,3,7.8208,Q,13,S,1,Adults,0
+695, Mr, Jeremiah,Burke,male,19,0,0,3,6.75,Q,DNS,BNR,0,Adults,0
+696, Miss, Mary Delia,Burns,female,18,0,0,3,7.8792,Q,DNS,BNR,0,Teenagers,0
+697, Miss, Manda,Cacic,female,21,0,0,3,8.6625,S,DNS,BNR,0,Adults,0
+698, Miss, Marija,Cacic,female,30,0,0,3,8.6625,S,DNS,BNR,0,Adults,0
+699, Mr, Jego Grga,Cacic,male,18,0,0,3,8.6625,S,DNS,BNR,0,Teenagers,0
+700, Mr, Luka,Cacic,male,38,0,0,3,8.6625,S,DNS,BNR,0,Adults,0
+701, Mr, Jovo,Calic,male,17,0,0,3,8.6625,S,DNS,BNR,0,Teenagers,0
+702, Mr, Petar,Calic,male,17,0,0,3,8.6625,S,DNS,BNR,0,Teenagers,0
+703, Miss, Mary,Canavan,female,21,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+704, Mr, Patrick,Canavan,male,21,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+705, Mr, Ernest Charles,Cann,male,21,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+706, Mr, Joseph,Caram,male,26,1,0,3,14.4583,C,DNS,BNR,0,Adults,1
+707, Mrs, Joseph (Maria Elias),Caram,female,31,1,0,3,14.4583,C,DNS,BNR,0,Adults,1
+708, Mr, August Sigfrid,Carlsson,male,28,0,0,3,7.7958,S,DNS,BNR,0,Adults,0
+709, Mr, Carl Robert,Carlsson,male,24,0,0,3,7.8542,S,DNS,BNR,0,Adults,0
+710, Miss," Helen ""Ellen""",Carr,female,16,0,0,3,7.75,Q,16,S,1,Teenagers,0
+711, Miss, Jeannie,Carr,female,37,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+712, Mr, Alfred John,Carver,male,28,0,0,3,7.25,S,DNS,BNR,0,Adults,0
+713, Mr, Francesco,Celotti,male,24,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+714, Mr, David,Charters,male,21,0,0,3,7.7333,Q,DNS,BNR,0,Adults,0
+715, Mr, Chang,Chip,male,32,0,0,3,56.4958,S,C,S,1,Adults,0
+716, Mr, Emil,Christmann,male,29,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+717, Mr, Apostolos,Chronopoulos,male,26,1,0,3,14.4542,C,DNS,BNR,0,Adults,1
+718, Mr, Demetrios,Chronopoulos,male,18,1,0,3,14.4542,C,DNS,BNR,0,Teenagers,1
+719, Mr, Domingos Fernandeo,Coelho,male,20,0,0,3,7.05,S,DNS,BNR,0,Adults,0
+720, Mr," Gurshon ""Gus""",Cohen,male,18,0,0,3,8.05,S,12,S,1,Teenagers,0
+721, Mr, Patrick,Colbert,male,24,0,0,3,7.25,Q,DNS,BNR,0,Adults,0
+722, Mr, Peju,Coleff,male,36,0,0,3,7.4958,S,DNS,BNR,0,Adults,0
+723, Mr, Satio,Coleff,male,24,0,0,3,7.4958,S,DNS,BNR,0,Adults,0
+724, Mr, Thomas Henry,Conlon,male,31,0,0,3,7.7333,Q,DNS,BNR,0,Adults,0
+725, Mr, Michael,Connaghton,male,31,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+726, Miss, Kate,Connolly,female,22,0,0,3,7.75,Q,13,S,1,Adults,0
+727, Miss, Kate,Connolly,female,30,0,0,3,7.6292,Q,DNS,BNR,0,Adults,0
+728, Mr, Patrick,Connors,male,70.5,0,0,3,7.75,Q,DNS,171,0,Seniors,0
+729, Mr, Jacob,Cook,male,43,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+730, Mr, Bartol,Cor,male,35,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+731, Mr, Ivan,Cor,male,27,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+732, Mr, Liudevit,Cor,male,19,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+733, Mr, Harry,Corn,male,30,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+734, Master," Eden Leslie ""Neville""",Coutts,male,9,1,1,3,15.9,S,2,S,1,Children,2
+735, Master," William Loch ""William""",Coutts,male,3,1,1,3,15.9,S,2,S,1,Children,2
+736, Mrs," William (Winnie ""Minnie"" Treanor)",Coutts,female,36,0,2,3,15.9,S,2,S,1,Adults,2
+737, Mr, Daniel,Coxon,male,59,0,0,3,7.25,S,DNS,BNR,0,Seniors,0
+738, Mr, Ernest James,Crease,male,19,0,0,3,8.1583,S,DNS,BNR,0,Adults,0
+739, Miss, Laura Alice,Cribb,female,17,0,1,3,16.1,S,12,S,1,Teenagers,1
+740, Mr, John Hatfield,Cribb,male,44,0,1,3,16.1,S,DNS,BNR,0,Adults,1
+741, Mr, Jeso,Culumovic,male,17,0,0,3,8.6625,S,DNS,BNR,0,Teenagers,0
+742, Mr, Shedid,Daher,male,22.5,0,0,3,7.225,C,DNS,9,0,Adults,0
+743, Mr, Karl Edwart,Dahl,male,45,0,0,3,8.05,S,15,S,1,Adults,0
+744, Miss, Gerda Ulrika,Dahlberg,female,22,0,0,3,10.5167,S,DNS,BNR,0,Adults,0
+745, Mr, Branko,Dakic,male,19,0,0,3,10.1708,S,DNS,BNR,0,Adults,0
+746, Miss," Margaret Marcella ""Maggie""",Daly,female,30,0,0,3,6.95,Q,15,S,1,Adults,0
+747, Mr, Eugene Patrick,Daly,male,29,0,0,3,7.75,Q,13 15 B,S,1,Adults,0
+748, Master, Gilbert Sigvard Emanuel,Danbom,male,0.3333,0,2,3,14.4,S,DNS,BNR,0,Children,2
+749, Mr, Ernst Gilbert,Danbom,male,34,1,1,3,14.4,S,DNS,197,0,Adults,2
+750, Mrs, Ernst Gilbert (Anna Sigrid Maria Brogren),Danbom,female,28,1,1,3,14.4,S,DNS,BNR,0,Adults,2
+751, Mr, Yoto,Danoff,male,27,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+752, Mr, Ristiu,Dantcheff,male,25,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+753, Mr, Alfred J,Davies,male,24,2,0,3,24.15,S,DNS,BNR,0,Adults,2
+754, Mr, Evan,Davies,male,22,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+755, Mr, John Samuel,Davies,male,21,2,0,3,24.15,S,DNS,BNR,0,Adults,2
+756, Mr, Joseph,Davies,male,17,2,0,3,8.05,S,DNS,BNR,0,Teenagers,2
+757, Mr, Thomas Henry,Davison,male,26,1,0,3,16.1,S,DNS,BNR,0,Adults,1
+758, Mrs, Thomas Henry (Mary E Finck),Davison,female,31,1,0,3,16.1,S,16,S,1,Adults,1
+759, Mr, Guillaume Joseph,de Messemaeker,male,36.5,1,0,3,17.4,S,15,S,1,Adults,1
+760, Mrs, Guillaume Joseph (Emma),de Messemaeker,female,36,1,0,3,17.4,S,13,S,1,Adults,1
+761, Mr, Theodore,de Mulder,male,30,0,0,3,9.5,S,11,S,1,Adults,0
+762, Mr, Alfons,de Pelsmaeker,male,16,0,0,3,9.5,S,DNS,BNR,0,Teenagers,0
+763, Master, Bertram Vere,Dean,male,1,1,2,3,20.575,S,10,S,1,Children,3
+764, Miss," Elizabeth Gladys ""Millvina""",Dean,female,0.1667,1,2,3,20.575,S,10,S,1,Children,3
+765, Mr, Bertram Frank,Dean,male,26,1,2,3,20.575,S,DNS,BNR,0,Adults,3
+766, Mrs, Bertram (Eva Georgetta Light),Dean,female,33,1,2,3,20.575,S,10,S,1,Adults,3
+767, Mr, Redjo,Delalic,male,25,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+768, Mr, Marinko,Demetri,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+769, Mr, Mitto,Denkoff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+770, Mr, Samuel,Dennis,male,22,0,0,3,7.25,S,DNS,BNR,0,Adults,0
+771, Mr, William,Dennis,male,36,0,0,3,7.25,S,DNS,BNR,0,Adults,0
+772, Miss, Margaret Delia,Devaney,female,19,0,0,3,7.8792,Q,C,S,1,Adults,0
+773, Mr, Mirko,Dika,male,17,0,0,3,7.8958,S,DNS,BNR,0,Teenagers,0
+774, Mr, Jovan,Dimic,male,42,0,0,3,8.6625,S,DNS,BNR,0,Adults,0
+775, Mr, Valtcho,Dintcheff,male,43,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+776, Mr, Tannous,Doharr,male,26,0,0,3,7.2292,C,DNS,BNR,0,Adults,0
+777, Mr, Patrick,Dooley,male,32,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+778, Mr, Edward Arthur,Dorking,male,19,0,0,3,8.05,S,B,S,1,Adults,0
+779, Miss, Elizabeth,Dowdell,female,30,0,0,3,12.475,S,13,S,1,Adults,0
+780, Miss, Elizabeth,Doyle,female,24,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+781, Miss, Jennie,Drapkin,female,23,0,0,3,8.05,S,DNS,S,1,Adults,0
+782, Mr, Jozef,Drazenoic,male,33,0,0,3,7.8958,C,DNS,51,0,Adults,0
+783, Mr, Frank,Duane,male,65,0,0,3,7.75,Q,DNS,BNR,0,Seniors,0
+784, Mr, Joseph,Duquemin,male,24,0,0,3,7.55,S,D,S,1,Adults,0
+785, Mr, Adolf Fredrik,Dyker,male,23,1,0,3,13.9,S,DNS,BNR,0,Adults,1
+786, Mrs, Adolf Fredrik (Anna Elisabeth Judith Andersson),Dyker,female,22,1,0,3,13.9,S,16,S,1,Adults,1
+787, Mr, Gustaf Hjalmar,Edvardsson,male,18,0,0,3,7.775,S,DNS,BNR,0,Teenagers,0
+788, Mr, Hans Linus,Eklund,male,16,0,0,3,7.775,S,DNS,BNR,0,Teenagers,0
+789, Mr, Johan,Ekstrom,male,45,0,0,3,6.975,S,DNS,BNR,0,Adults,0
+790, Mr, Dibo,Elias,male,26,0,0,3,7.225,C,DNS,BNR,0,Adults,0
+791, Mr, Joseph,Elias,male,39,0,2,3,7.2292,C,DNS,BNR,0,Adults,2
+792, Mr, Joseph Jr,Elias,male,17,1,1,3,7.2292,C,DNS,BNR,0,Teenagers,2
+793, Mr, Tannous,Elias,male,15,1,1,3,7.2292,C,DNS,BNR,0,Teenagers,2
+794, Mr, William James,Elsbury,male,47,0,0,3,7.25,S,DNS,BNR,0,Adults,0
+795, Miss, Virginia Ethel,Emanuel,female,5,0,0,3,12.475,S,13,S,1,Children,0
+796, Mr, Farred Chehab,Emir,male,26,0,0,3,7.225,C,DNS,BNR,0,Adults,0
+797, Mr, Thomas James,Everett,male,40.5,0,0,3,15.1,S,DNS,187,0,Adults,0
+798, Mr, James,Farrell,male,40.5,0,0,3,7.75,Q,DNS,68,0,Adults,0
+799, Mr, Luigi,Finoli,male,26,0,0,3,7.05,S,15,S,1,Adults,0
+800, Mr, Eberhard Thelander,Fischer,male,18,0,0,3,7.7958,S,DNS,BNR,0,Teenagers,0
+801, Miss, Honora,Fleming,female,18,0,0,3,7.75,Q,DNS,BNR,0,Teenagers,0
+802, Mr, James,Flynn,male,26,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+803, Mr, John,Flynn,male,26,0,0,3,6.95,Q,DNS,BNR,0,Adults,0
+804, Mr, Joseph,Foley,male,26,0,0,3,7.8792,Q,DNS,BNR,0,Adults,0
+805, Mr, William,Foley,male,26,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+806, Mr, Choong,Foo,male,26,0,0,3,56.4958,S,13,S,1,Adults,0
+807, Miss," Doolina Margaret ""Daisy""",Ford,female,21,2,2,3,34.375,S,DNS,BNR,0,Adults,4
+808, Miss," Robina Maggie ""Ruby""",Ford,female,9,2,2,3,34.375,S,DNS,BNR,0,Children,4
+809, Mr, Arthur,Ford,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+810, Mr, Edward Watson,Ford,male,18,2,2,3,34.375,S,DNS,BNR,0,Teenagers,4
+811, Mr, William Neal,Ford,male,16,1,3,3,34.375,S,DNS,BNR,0,Teenagers,4
+812, Mrs, Edward (Margaret Ann Watson),Ford,female,48,1,3,3,34.375,S,DNS,BNR,0,Adults,4
+813, Mr, Patrick,Fox,male,26,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+814, Mr, Charles (Charles Fardon),Franklin,male,26,0,0,3,7.25,S,DNS,BNR,0,Adults,0
+815, Mr, Martin,Gallagher,male,25,0,0,3,7.7417,Q,DNS,BNR,0,Adults,0
+816, Mr, John,Garfirth,male,26,0,0,3,14.5,S,DNS,BNR,0,Adults,0
+817, Mr, Stanio,Gheorgheff,male,26,0,0,3,7.8958,C,DNS,BNR,0,Adults,0
+818, Mr, Eliezer,Gilinski,male,22,0,0,3,8.05,S,DNS,47,0,Adults,0
+819, Miss," Katherine ""Katie""",Gilnagh,female,16,0,0,3,7.7333,Q,16,S,1,Teenagers,0
+820, Miss, Mary Agatha,Glynn,female,18,0,0,3,7.75,Q,13,S,1,Teenagers,0
+821, Master," Frank John William ""Frankie""",Goldsmith,male,9,0,2,3,20.525,S,C D,S,1,Children,2
+822, Mr, Frank John,Goldsmith,male,33,1,1,3,20.525,S,DNS,BNR,0,Adults,2
+823, Mr, Nathan,Goldsmith,male,41,0,0,3,7.85,S,DNS,BNR,0,Adults,0
+824, Mrs, Frank John (Emily Alice Brown),Goldsmith,female,31,1,1,3,20.525,S,C D,S,1,Adults,2
+825, Mr, Manuel Estanslas,Goncalves,male,38,0,0,3,7.05,S,DNS,BNR,0,Adults,0
+826, Master, Harold Victor,Goodwin,male,9,5,2,3,46.9,S,DNS,BNR,0,Children,7
+827, Master, Sidney Leonard,Goodwin,male,1,5,2,3,46.9,S,DNS,BNR,0,Children,7
+828, Master, William Frederick,Goodwin,male,11,5,2,3,46.9,S,DNS,BNR,0,Children,7
+829, Miss, Jessie Allis,Goodwin,female,10,5,2,3,46.9,S,DNS,BNR,0,Children,7
+830, Miss, Lillian Amy,Goodwin,female,16,5,2,3,46.9,S,DNS,BNR,0,Teenagers,7
+831, Mr, Charles Edward,Goodwin,male,14,5,2,3,46.9,S,DNS,BNR,0,Teenagers,7
+832, Mr, Charles Frederick,Goodwin,male,40,1,6,3,46.9,S,DNS,BNR,0,Adults,7
+833, Mrs, Frederick (Augusta Tyler),Goodwin,female,43,1,6,3,46.9,S,DNS,BNR,0,Adults,7
+834, Mr, George Henry,Green,male,51,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+835, Mr, Daniel Danielsen,Gronnestad,male,32,0,0,3,8.3625,S,DNS,BNR,0,Adults,0
+836, Mr, Robert,Guest,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+837, Mr, Alfred Ossian,Gustafsson,male,20,0,0,3,9.8458,S,DNS,BNR,0,Adults,0
+838, Mr, Anders Vilhelm,Gustafsson,male,37,2,0,3,7.925,S,DNS,98,0,Adults,2
+839, Mr, Johan Birger,Gustafsson,male,28,2,0,3,7.925,S,DNS,BNR,0,Adults,2
+840, Mr, Karl Gideon,Gustafsson,male,19,0,0,3,7.775,S,DNS,BNR,0,Adults,0
+841, Miss, Aloisia,Haas,female,24,0,0,3,8.85,S,DNS,BNR,0,Adults,0
+842, Miss, Kate,Hagardon,female,17,0,0,3,7.7333,Q,DNS,BNR,0,Teenagers,0
+843, Mr, Ingvald Olai Olsen,Hagland,male,26,1,0,3,19.9667,S,DNS,BNR,0,Adults,1
+844, Mr, Konrad Mathias Reiersen,Hagland,male,26,1,0,3,19.9667,S,DNS,BNR,0,Adults,1
+845, Mr, Pekka Pietari,Hakkarainen,male,28,1,0,3,15.85,S,DNS,BNR,0,Adults,1
+846, Mrs, Pekka Pietari (Elin Matilda Dolck),Hakkarainen,female,24,1,0,3,15.85,S,15,S,1,Adults,1
+847, Mr, Leon,Hampe,male,20,0,0,3,9.5,S,DNS,BNR,0,Adults,0
+848, Mr, Mansour,Hanna,male,23.5,0,0,3,7.2292,C,DNS,188,0,Adults,0
+849, Mr, Claus Peter,Hansen,male,41,2,0,3,14.1083,S,DNS,BNR,0,Adults,2
+850, Mr, Henrik Juul,Hansen,male,26,1,0,3,7.8542,S,DNS,BNR,0,Adults,1
+851, Mr, Henry Damsgaard,Hansen,male,21,0,0,3,7.8542,S,DNS,69,0,Adults,0
+852, Mrs, Claus Peter (Jennie L Howard),Hansen,female,45,1,0,3,14.1083,S,11,S,1,Adults,1
+853, Miss, Alice Phoebe,Harknett,female,18,0,0,3,7.55,S,DNS,BNR,0,Teenagers,0
+854, Mr, Abraham (David Lishin),Harmer,male,25,0,0,3,7.25,S,B,BNR,0,Adults,0
+855, Mr, Henry,Hart,male,26,0,0,3,6.8583,Q,DNS,BNR,0,Adults,0
+856, Mr, Houssein G N,Hassan,male,11,0,0,3,18.7875,C,DNS,BNR,0,Children,0
+857, Miss," Hanora ""Nora""",Healy,female,18,0,0,3,7.75,Q,16,S,1,Teenagers,0
+858, Mr, Oskar Arvid,Hedman,male,27,0,0,3,6.975,S,15,S,1,Adults,0
+859, Mr, Ling,Hee,male,26,0,0,3,56.4958,S,C,S,1,Adults,0
+860, Miss," Hanora ""Nora""",Hegarty,female,18,0,0,3,6.75,Q,DNS,BNR,0,Teenagers,0
+861, Miss, Laina,Heikkinen,female,26,0,0,3,7.925,S,DNS,S,1,Adults,0
+862, Miss, Wendla Maria,Heininen,female,23,0,0,3,7.925,S,DNS,BNR,0,Adults,0
+863, Miss, Hilda Maria,Hellstrom,female,22,0,0,3,8.9625,S,C,S,1,Adults,0
+864, Mr, Ignjac,Hendekovic,male,28,0,0,3,7.8958,S,DNS,306,0,Adults,0
+865, Miss, Jenny Lovisa,Henriksson,female,28,0,0,3,7.775,S,DNS,BNR,0,Adults,0
+866, Miss, Delia,Henry,female,18,0,0,3,7.75,Q,DNS,BNR,0,Teenagers,0
+867, Miss, Hildur E,Hirvonen,female,2,0,1,3,12.2875,S,15,S,1,Children,1
+868, Mrs, Alexander (Helga E Lindqvist),Hirvonen,female,22,1,1,3,12.2875,S,15,S,1,Adults,2
+869, Mr, John Fredrik Alexander,Holm,male,43,0,0,3,6.45,S,DNS,BNR,0,Adults,0
+870, Mr, Johan Martin,Holthen,male,28,0,0,3,22.525,S,DNS,BNR,0,Adults,0
+871, Miss, Eliina,Honkanen,female,27,0,0,3,7.925,S,DNS,S,1,Adults,0
+872, Mr, John,Horgan,male,26,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+873, Miss, May Elizabeth,Howard,female,18,0,0,3,8.05,S,C,S,1,Teenagers,0
+874, Mr, Adolf Mathias Nicolai Olsen,Humblen,male,42,0,0,3,7.65,S,DNS,120,0,Adults,0
+875, Mr, Abraham,Hyman,male,26,0,0,3,7.8875,S,C,S,1,Adults,0
+876, Mr, Yousseff,Ibrahim Shawah,male,30,0,0,3,7.2292,C,DNS,BNR,0,Adults,0
+877, Mr, Ylio,Ilieff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+878, Miss, Ida Livija,Ilmakangas,female,27,1,0,3,7.925,S,DNS,BNR,0,Adults,1
+879, Miss, Pieta Sofia,Ilmakangas,female,25,1,0,3,7.925,S,DNS,BNR,0,Adults,1
+880, Mr, Kanio,Ivanoff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+881, Mr, Ivan,Jalsevac,male,29,0,0,3,7.8958,C,15,S,1,Adults,0
+882, Mr, Carl Olof,Jansson,male,21,0,0,3,7.7958,S,A,S,1,Adults,0
+883, Mr, Jose Neto,Jardin,male,26,0,0,3,7.05,S,DNS,BNR,0,Adults,0
+884, Mr, Hans Peder,Jensen,male,20,0,0,3,7.8542,S,DNS,BNR,0,Adults,0
+885, Mr, Niels Peder,Jensen,male,48,0,0,3,7.8542,S,DNS,BNR,0,Adults,0
+886, Mr, Svend Lauritz,Jensen,male,17,1,0,3,7.0542,S,DNS,BNR,0,Teenagers,1
+887, Miss, Annie,Jermyn,female,18,0,0,3,7.75,Q,D,S,1,Teenagers,0
+888, Mr, Bernt,Johannesen-Bratthammer,male,26,0,0,3,8.1125,S,13,S,1,Adults,0
+889, Mr, Jakob Alfred,Johanson,male,34,0,0,3,6.4958,S,DNS,143,0,Adults,0
+890, Mr, Oskar Leander,Johansson Palmquist,male,26,0,0,3,7.775,S,15,S,1,Adults,0
+891, Mr, Erik,Johansson,male,22,0,0,3,7.7958,S,DNS,156,0,Adults,0
+892, Mr, Gustaf Joel,Johansson,male,33,0,0,3,8.6542,S,DNS,285,0,Adults,0
+893, Mr, Karl Johan,Johansson,male,31,0,0,3,7.775,S,DNS,BNR,0,Adults,0
+894, Mr, Nils,Johansson,male,29,0,0,3,7.8542,S,DNS,BNR,0,Adults,0
+895, Master, Harold Theodor,Johnson,male,4,1,1,3,11.1333,S,15,S,1,Children,2
+896, Miss, Eleanor Ileen,Johnson,female,1,1,1,3,11.1333,S,15,S,1,Children,2
+897, Mr, Alfred,Johnson,male,49,0,0,3,0,S,DNS,BNR,0,Adults,0
+898, Mr, Malkolm Joackim,Johnson,male,33,0,0,3,7.775,S,DNS,37,0,Adults,0
+899, Mr, William Cahoone Jr,Johnson,male,19,0,0,3,0,S,DNS,BNR,0,Adults,0
+900, Mrs, Oscar W (Elisabeth Vilhelmina Berg),Johnson,female,27,0,2,3,11.1333,S,15,S,1,Adults,2
+901, Master," William Arthur ""Willie""",Johnston,male,6,1,2,3,23.45,S,DNS,BNR,0,Children,3
+902, Miss," Catherine Helen ""Carrie""",Johnston,female,18,1,2,3,23.45,S,DNS,BNR,0,Teenagers,3
+903, Mr, Andrew G,Johnston,male,26,1,2,3,23.45,S,DNS,BNR,0,Adults,3
+904, Mrs," Andrew G (Elizabeth ""Lily"" Watson)",Johnston,female,31,1,2,3,23.45,S,DNS,BNR,0,Adults,3
+905, Mr, Lalio,Jonkoff,male,23,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+906, Mr, Carl,Jonsson,male,32,0,0,3,7.8542,S,15,S,1,Adults,0
+907, Mr, Nils Hilding,Jonsson,male,27,0,0,3,7.8542,S,DNS,BNR,0,Adults,0
+908, Miss, Katriina,Jussila,female,20,1,0,3,9.825,S,DNS,BNR,0,Adults,1
+909, Miss, Mari Aina,Jussila,female,21,1,0,3,9.825,S,DNS,BNR,0,Adults,1
+910, Mr, Eiriik,Jussila,male,32,0,0,3,7.925,S,15,S,1,Adults,0
+911, Mr, Nikolai Erland,Kallio,male,17,0,0,3,7.125,S,DNS,BNR,0,Teenagers,0
+912, Mr, Johannes Halvorsen,Kalvik,male,21,0,0,3,8.4333,S,DNS,BNR,0,Adults,0
+913, Mr, Milan,Karaic,male,30,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+914, Mr, Einar Gervasius,Karlsson,male,21,0,0,3,7.7958,S,13,S,1,Adults,0
+915, Mr, Julius Konrad Eugen,Karlsson,male,33,0,0,3,7.8542,S,DNS,BNR,0,Adults,0
+916, Mr, Nils August,Karlsson,male,22,0,0,3,7.5208,S,DNS,BNR,0,Adults,0
+917, Miss, Manca,Karun,female,4,0,1,3,13.4167,C,15,S,1,Children,1
+918, Mr, Franz,Karun,male,39,0,1,3,13.4167,C,15,S,1,Adults,1
+919, Mr, Fared,Kassem,male,26,0,0,3,7.2292,C,DNS,BNR,0,Adults,0
+920, Mr," Vassilios (""Catavelas Vassilios"")",Katavelas,male,18.5,0,0,3,7.2292,C,DNS,58,0,Teenagers,0
+921, Mr," Andrew ""Andy""",Keane,male,26,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+922, Mr, Arthur,Keefe,male,26,0,0,3,7.25,S,A,BNR,0,Adults,0
+923, Miss," Anna Katherine ""Annie Kate""",Kelly,female,18,0,0,3,7.75,Q,16,S,1,Teenagers,0
+924, Miss, Mary,Kelly,female,18,0,0,3,7.75,Q,D,S,1,Teenagers,0
+925, Mr, James,Kelly,male,34.5,0,0,3,7.8292,Q,DNS,70,0,Adults,0
+926, Mr, James,Kelly,male,44,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+927, Mr, John,Kennedy,male,26,0,0,3,7.75,Q,DNS,S,1,Adults,0
+928, Mr, Betros,Khalil,male,26,1,0,3,14.4542,C,DNS,BNR,0,Adults,1
+929, Mrs," Betros (Zahie ""Maria"" Elias)",Khalil,female,31,1,0,3,14.4542,C,DNS,BNR,0,Adults,1
+930, Mr, John,Kiernan,male,26,1,0,3,7.75,Q,DNS,BNR,0,Adults,1
+931, Mr, Philip,Kiernan,male,26,1,0,3,7.75,Q,DNS,BNR,0,Adults,1
+932, Mr, Thomas J,Kilgannon,male,26,0,0,3,7.7375,Q,DNS,BNR,0,Adults,0
+933, Miss, Maria,Kink,female,22,2,0,3,8.6625,S,DNS,BNR,0,Adults,2
+934, Mr, Vincenz,Kink,male,26,2,0,3,8.6625,S,DNS,BNR,0,Adults,2
+935, Miss, Luise Gretchen,Kink-Heilmann,female,4,0,2,3,22.025,S,2,S,1,Children,2
+936, Mr, Anton,Kink-Heilmann,male,29,3,1,3,22.025,S,2,S,1,Adults,4
+937, Mrs, Anton (Luise Heilmann),Kink-Heilmann,female,26,1,1,3,22.025,S,2,S,1,Adults,2
+938, Miss, Gertrud Emilia,Klasen,female,1,1,1,3,12.1833,S,DNS,BNR,0,Children,2
+939, Mr, Klas Albin,Klasen,male,18,1,1,3,7.8542,S,DNS,BNR,0,Teenagers,2
+940, Mrs, (Hulda Kristina Eugenia Lofqvist),Klasen,female,36,0,2,3,12.1833,S,DNS,BNR,0,Adults,2
+941, Mr, Theodor,Kraeff,male,26,0,0,3,7.8958,C,DNS,BNR,0,Adults,0
+942, Mr, Neshan,Krekorian,male,25,0,0,3,7.2292,C,10,S,1,Adults,0
+943, Mr, Sarkis,Lahoud,male,26,0,0,3,7.225,C,DNS,BNR,0,Adults,0
+944, Miss, Kristina Sofia,Laitinen,female,37,0,0,3,9.5875,S,DNS,BNR,0,Adults,0
+945, Mr, Kristo,Laleff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+946, Mr, Ali,Lam,male,26,0,0,3,56.4958,S,C,S,1,Adults,0
+947, Mr, Len,Lam,male,26,0,0,3,56.4958,S,DNS,BNR,0,Adults,0
+948, Miss, Aurora Adelia,Landergren,female,22,0,0,3,7.25,S,13,S,1,Adults,0
+949, Mr, Patrick,Lane,male,26,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+950, Mr, Fang,Lang,male,26,0,0,3,56.4958,S,14,S,1,Adults,0
+951, Mr, August Viktor,Larsson,male,29,0,0,3,9.4833,S,DNS,BNR,0,Adults,0
+952, Mr, Bengt Edvin,Larsson,male,29,0,0,3,7.775,S,DNS,BNR,0,Adults,0
+953, Mr, Edvard A,Larsson-Rondberg,male,22,0,0,3,7.775,S,DNS,BNR,0,Adults,0
+954, Mr," Fahim (""Philip Zenni"")",Leeni,male,22,0,0,3,7.225,C,6,S,1,Adults,0
+955, Master, Henry Forbes,Lefebre,male,6,3,1,3,25.4667,S,DNS,BNR,0,Children,4
+956, Miss, Ida,Lefebre,female,18,3,1,3,25.4667,S,DNS,BNR,0,Teenagers,4
+957, Miss, Jeannie,Lefebre,female,18,3,1,3,25.4667,S,DNS,BNR,0,Teenagers,4
+958, Miss, Mathilde,Lefebre,female,18,3,1,3,25.4667,S,DNS,BNR,0,Teenagers,4
+959, Mrs, Frank (Frances),Lefebre,female,31,0,4,3,25.4667,S,DNS,BNR,0,Adults,4
+960, Mr, Antti Gustaf,Leinonen,male,32,0,0,3,7.925,S,DNS,BNR,0,Adults,0
+961, Mr, Peter L,Lemberopolous,male,34.5,0,0,3,6.4375,C,DNS,196,0,Adults,0
+962, Miss, Mary,Lennon,female,18,1,0,3,15.5,Q,DNS,BNR,0,Teenagers,1
+963, Mr, Denis,Lennon,male,26,1,0,3,15.5,Q,DNS,BNR,0,Adults,1
+964, Mr, Lionel,Leonard,male,36,0,0,3,0,S,DNS,BNR,0,Adults,0
+965, Mr, James,Lester,male,39,0,0,3,24.15,S,DNS,BNR,0,Adults,0
+966, Mr, Rene Aime,Lievens,male,24,0,0,3,9.5,S,DNS,BNR,0,Adults,0
+967, Miss, Agda Thorilda Viktoria,Lindahl,female,25,0,0,3,7.775,S,DNS,BNR,0,Adults,0
+968, Miss, Augusta Charlotta,Lindblom,female,45,0,0,3,7.75,S,DNS,BNR,0,Adults,0
+969, Mr, Edvard Bengtsson,Lindell,male,36,1,0,3,15.55,S,A,BNR,0,Adults,1
+970, Mrs, Edvard Bengtsson (Elin Gerda Persson),Lindell,female,30,1,0,3,15.55,S,A,BNR,0,Adults,1
+971, Mr, Eino William,Lindqvist,male,20,1,0,3,7.925,S,15,S,1,Adults,1
+972, Mr, Michael,Linehan,male,26,0,0,3,7.8792,Q,DNS,BNR,0,Adults,0
+973, Mr, Lee,Ling,male,28,0,0,3,56.4958,S,DNS,BNR,0,Adults,0
+974, Mr, Simon,Lithman,male,26,0,0,3,7.55,S,DNS,BNR,0,Adults,0
+975, Mr, William Arthur,Lobb,male,30,1,0,3,16.1,S,DNS,BNR,0,Adults,1
+976, Mrs, William Arthur (Cordelia K Stanlick),Lobb,female,26,1,0,3,16.1,S,DNS,BNR,0,Adults,1
+977, Mr, Edward,Lockyer,male,26,0,0,3,7.8792,S,DNS,153,0,Adults,0
+978, Mr," John Hall (""Henry"")",Lovell,male,20.5,0,0,3,7.25,S,DNS,BNR,0,Adults,0
+979, Mr, Nikola,Lulic,male,27,0,0,3,8.6625,S,15,S,1,Adults,0
+980, Mr, Johan Svensson,Lundahl,male,51,0,0,3,7.0542,S,DNS,BNR,0,Adults,0
+981, Miss, Olga Elida,Lundin,female,23,0,0,3,7.8542,S,10,S,1,Adults,0
+982, Mr, Thure Edvin,Lundstrom,male,32,0,0,3,7.5792,S,15,S,1,Adults,0
+983, Mr, Stanko,Lyntakoff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+984, Mr, George William,MacKay,male,26,0,0,3,7.55,S,DNS,BNR,0,Adults,0
+985, Miss," Margaret ""Maggie""",Madigan,female,18,0,0,3,7.75,Q,15,S,1,Teenagers,0
+986, Mr, Fridtjof Arne,Madsen,male,24,0,0,3,7.1417,S,13,S,1,Adults,0
+987, Mr, Matti Alexanteri,Maenpaa,male,22,0,0,3,7.125,S,DNS,BNR,0,Adults,0
+988, Miss, Bridget Delia,Mahon,female,18,0,0,3,7.8792,Q,DNS,BNR,0,Teenagers,0
+989, Mr, John,Mahon,male,26,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+990, Mr, Simon,Maisner,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+991, Mr, Kalle Edvard,Makinen,male,29,0,0,3,7.925,S,DNS,BNR,0,Adults,0
+992, Mr, Hanna,Mamee,male,26,0,0,3,7.2292,C,15,S,1,Adults,0
+993, Miss, Mary,Mangan,female,30.5,0,0,3,7.75,Q,DNS,61,0,Adults,0
+994, Miss, Margareth,Mannion,female,18,0,0,3,7.7375,Q,16,S,1,Teenagers,0
+995, Mr, Sarkis,Mardirosian,male,26,0,0,3,7.2292,C,DNS,BNR,0,Adults,0
+996, Mr, Marin,Markoff,male,35,0,0,3,7.8958,C,DNS,BNR,0,Adults,0
+997, Mr, Johann,Markun,male,33,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+998, Mrs, Fatima,Masselmani,female,31,0,0,3,7.225,C,C,S,1,Adults,0
+999, Mr, Nicola,Matinoff,male,26,0,0,3,7.8958,C,DNS,BNR,0,Adults,0
+1000, Miss," Catherine ""Katie""",McCarthy,female,18,0,0,3,7.75,Q,15 16,S,1,Teenagers,0
+1001, Mr, Thomas Joseph,McCormack,male,26,0,0,3,7.75,Q,DNS,S,1,Adults,0
+1002, Miss, Agnes,McCoy,female,18,2,0,3,23.25,Q,16,S,1,Teenagers,2
+1003, Miss, Alicia,McCoy,female,18,2,0,3,23.25,Q,16,S,1,Teenagers,2
+1004, Mr, Bernard,McCoy,male,26,2,0,3,23.25,Q,16,S,1,Adults,2
+1005, Miss, Brigdet Delia,McDermott,female,18,0,0,3,7.7875,Q,13,S,1,Teenagers,0
+1006, Mr, Michael,McEvoy,male,26,0,0,3,15.5,Q,DNS,BNR,0,Adults,0
+1007, Miss, Mary,McGovern,female,18,0,0,3,7.8792,Q,13,S,1,Teenagers,0
+1008, Miss," Anna ""Annie""",McGowan,female,15,0,0,3,8.0292,Q,DNS,S,1,Teenagers,0
+1009, Miss, Katherine,McGowan,female,35,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+1010, Mr, Martin,McMahon,male,26,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+1011, Mr, Neal,McNamee,male,24,1,0,3,16.1,S,DNS,BNR,0,Adults,1
+1012, Mrs, Neal (Eileen O'Leary),McNamee,female,19,1,0,3,16.1,S,DNS,53,0,Adults,1
+1013, Miss, Bridget,McNeill,female,18,0,0,3,7.75,Q,DNS,BNR,0,Teenagers,0
+1014, Miss, (Marion Ogden),Meanwell,female,18,0,0,3,8.05,S,DNS,BNR,0,Teenagers,0
+1015, Mrs, Thomas (Annie Louise Rowley),Meek,female,31,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1016, Mr, Alfonzo,Meo,male,55.5,0,0,3,8.05,S,DNS,201,0,Adults,0
+1017, Mr, Robert,Mernagh,male,26,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+1018, Mr, Karl Albert,Midtsjo,male,21,0,0,3,7.775,S,15,S,1,Adults,0
+1019, Mr, Frank,Miles,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1020, Mr, Ivan,Mineff,male,24,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1021, Mr, Lazar,Minkoff,male,21,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1022, Mr, Stoytcho,Mionoff,male,28,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1023, Mr, Mito,Mitkoff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1024, Miss," Helen Mary ""Ellie""",Mockler,female,18,0,0,3,7.8792,Q,16,S,1,Teenagers,0
+1025, Mr, Sigurd Hansen,Moen,male,25,0,0,3,7.65,S,DNS,309,0,Adults,0
+1026, Master, Meier,Moor,male,6,0,1,3,12.475,S,14,S,1,Children,1
+1027, Mrs, (Beila),Moor,female,27,0,1,3,12.475,S,14,S,1,Adults,1
+1028, Mr, Leonard Charles,Moore,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1029, Miss, Bertha,Moran,female,18,1,0,3,24.15,Q,16,S,1,Teenagers,1
+1030, Mr, Daniel J,Moran,male,26,1,0,3,24.15,Q,DNS,BNR,0,Adults,1
+1031, Mr, James,Moran,male,26,0,0,3,8.4583,Q,DNS,BNR,0,Adults,0
+1032, Mr, William,Morley,male,34,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1033, Mr, Thomas Rowan,Morrow,male,26,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+1034, Mr, Albert Johan,Moss,male,26,0,0,3,7.775,S,B,S,1,Adults,0
+1035, Master, Gerios,Moubarek,male,6,1,1,3,15.2458,C,C,S,1,Children,2
+1036, Master," Halim Gonios (""William George"")",Moubarek,male,6,1,1,3,15.2458,C,C,S,1,Children,2
+1037, Mrs," George (Omine ""Amenia"" Alexander)",Moubarek,female,31,0,2,3,15.2458,C,C,S,1,Adults,2
+1038, Mrs, (Mantoura Boulos),Moussa,female,31,0,0,3,7.2292,C,DNS,S,1,Adults,0
+1039, Mr, Rahamin Haim,Moutal,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1040, Miss," Katherine ""Katie""",Mullens,female,18,0,0,3,7.7333,Q,16,S,1,Teenagers,0
+1041, Miss, Bertha E,Mulvihill,female,24,0,0,3,7.75,Q,15,S,1,Adults,0
+1042, Mr, Joseph,Murdlin,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1043, Miss," Katherine ""Kate""",Murphy,female,18,1,0,3,15.5,Q,16,S,1,Teenagers,1
+1044, Miss, Margaret Jane,Murphy,female,18,1,0,3,15.5,Q,16,S,1,Teenagers,1
+1045, Miss, Nora,Murphy,female,18,0,0,3,15.5,Q,16,S,1,Teenagers,0
+1046, Mr, Pehr Fabian Oliver Malkolm,Myhrman,male,18,0,0,3,7.75,S,DNS,BNR,0,Teenagers,0
+1047, Mr, Penko,Naidenoff,male,22,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1048, Miss," Adele Kiamie ""Jane""",Najib,female,15,0,0,3,7.225,C,C,S,1,Teenagers,0
+1049, Miss," Maria (""Mary"")",Nakid,female,1,0,2,3,15.7417,C,C,S,1,Children,2
+1050, Mr, Sahid,Nakid,male,20,1,1,3,15.7417,C,C,S,1,Adults,2
+1051, Mrs," Said (Waika ""Mary"" Mowad)",Nakid,female,19,1,1,3,15.7417,C,C,S,1,Adults,2
+1052, Mr, William Henry,Nancarrow,male,33,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1053, Mr, Minko,Nankoff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1054, Mr, Mustafa,Nasr,male,26,0,0,3,7.2292,C,DNS,BNR,0,Adults,0
+1055, Miss, Hannah,Naughton,female,18,0,0,3,7.75,Q,DNS,BNR,0,Teenagers,0
+1056, Mr, Christo,Nenkoff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1057, Master, Elias,Nicola-Yarred,male,12,1,0,3,11.2417,C,C,S,1,Teenagers,1
+1058, Miss, Jamila,Nicola-Yarred,female,14,1,0,3,11.2417,C,C,S,1,Teenagers,1
+1059, Miss, Manta Josefina,Nieminen,female,29,0,0,3,7.925,S,DNS,BNR,0,Adults,0
+1060, Mr, Samuel,Niklasson,male,28,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1061, Miss, Berta Olivia,Nilsson,female,18,0,0,3,7.775,S,D,S,1,Teenagers,0
+1062, Miss, Helmina Josefina,Nilsson,female,26,0,0,3,7.8542,S,13,S,1,Adults,0
+1063, Mr, August Ferdinand,Nilsson,male,21,0,0,3,7.8542,S,DNS,BNR,0,Adults,0
+1064, Mr, Iisakki Antino Aijo,Nirva,male,41,0,0,3,7.125,S,DNS,BNR,0,Adults,0
+1065, Mr, Juha,Niskanen,male,39,0,0,3,7.925,S,9,S,1,Adults,0
+1066, Mr, Richard Cater,Nosworthy,male,21,0,0,3,7.8,S,DNS,BNR,0,Adults,0
+1067, Mr, Mansouer,Novel,male,28.5,0,0,3,7.2292,C,DNS,181,0,Adults,0
+1068, Miss, Anna Sofia,Nysten,female,22,0,0,3,7.75,S,13,S,1,Adults,0
+1069, Mr, Johan Hansen,Nysveen,male,61,0,0,3,6.2375,S,DNS,BNR,0,Seniors,0
+1070, Mr, Thomas,O'Brien,male,26,1,0,3,15.5,Q,DNS,BNR,0,Adults,1
+1071, Mr, Timothy,O'Brien,male,26,0,0,3,7.8292,Q,DNS,BNR,0,Adults,0
+1072, Mrs," Thomas (Johanna ""Hannah"" Godfrey)",O'Brien,female,31,1,0,3,15.5,Q,DNS,S,1,Adults,1
+1073, Mr, Patrick D,O'Connell,male,26,0,0,3,7.7333,Q,DNS,BNR,0,Adults,0
+1074, Mr, Maurice,O'Connor,male,26,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+1075, Mr, Patrick,O'Connor,male,26,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+1076, Mr, Nils Martin,Odahl,male,23,0,0,3,9.225,S,DNS,BNR,0,Adults,0
+1078, Miss, Bridget,O'Driscoll,female,18,0,0,3,7.75,Q,D,S,1,Teenagers,0
+1079, Miss," Ellen ""Nellie""",O'Dwyer,female,18,0,0,3,7.8792,Q,DNS,S,1,Teenagers,0
+1080, Miss, Velin,Ohman,female,22,0,0,3,7.775,S,C,S,1,Adults,0
+1081, Mr, Patrick,O'Keefe,male,26,0,0,3,7.75,Q,B,S,1,Adults,0
+1082, Miss," Hanora ""Norah""",O'Leary,female,18,0,0,3,7.8292,Q,13,S,1,Teenagers,0
+1083, Master, Artur Karl,Olsen,male,9,0,1,3,3.1708,S,13,S,1,Children,1
+1084, Mr, Henry Margido,Olsen,male,28,0,0,3,22.525,S,DNS,173,0,Adults,0
+1085, Mr, Karl Siegwart Andreas,Olsen,male,42,0,1,3,8.4042,S,DNS,BNR,0,Adults,1
+1086, Mr, Ole Martin,Olsen,male,26,0,0,3,7.3125,S,DNS,BNR,0,Adults,0
+1087, Miss, Elina,Olsson,female,31,0,0,3,7.8542,S,DNS,BNR,0,Adults,0
+1088, Mr, Nils Johan Goransson,Olsson,male,28,0,0,3,7.8542,S,DNS,BNR,0,Adults,0
+1089, Mr, Oscar Wilhelm,Olsson,male,32,0,0,3,7.775,S,A,S,1,Adults,0
+1090, Mr, Thor Anderson,Olsvigen,male,20,0,0,3,9.225,S,DNS,89,0,Adults,0
+1091, Miss, Jelka,Oreskovic,female,23,0,0,3,8.6625,S,DNS,BNR,0,Adults,0
+1092, Miss, Marija,Oreskovic,female,20,0,0,3,8.6625,S,DNS,BNR,0,Adults,0
+1093, Mr, Luka,Oreskovic,male,20,0,0,3,8.6625,S,DNS,BNR,0,Adults,0
+1094, Mr, Olaf Elon,Osen,male,16,0,0,3,9.2167,S,DNS,BNR,0,Teenagers,0
+1095, Mrs, Mara,Osman,female,31,0,0,3,8.6833,S,DNS,S,1,Adults,0
+1096, Miss, Bridget Mary,O'Sullivan,female,18,0,0,3,7.6292,Q,DNS,BNR,0,Teenagers,0
+1097, Master, Gosta Leonard,Palsson,male,2,3,1,3,21.075,S,DNS,4,0,Children,4
+1098, Master, Paul Folke,Palsson,male,6,3,1,3,21.075,S,DNS,BNR,0,Children,4
+1099, Miss, Stina Viola,Palsson,female,3,3,1,3,21.075,S,DNS,BNR,0,Children,4
+1100, Miss, Torborg Danira,Palsson,female,8,3,1,3,21.075,S,DNS,BNR,0,Children,4
+1101, Mrs, Nils (Alma Cornelia Berglund),Palsson,female,29,0,4,3,21.075,S,DNS,206,0,Adults,4
+1102, Master, Eino Viljami,Panula,male,1,4,1,3,39.6875,S,DNS,BNR,0,Children,5
+1103, Master, Juha Niilo,Panula,male,7,4,1,3,39.6875,S,DNS,BNR,0,Children,5
+1104, Master, Urho Abraham,Panula,male,2,4,1,3,39.6875,S,DNS,BNR,0,Children,5
+1105, Mr, Ernesti Arvid,Panula,male,16,4,1,3,39.6875,S,DNS,BNR,0,Teenagers,5
+1106, Mr, Jaako Arnold,Panula,male,14,4,1,3,39.6875,S,DNS,BNR,0,Teenagers,5
+1107, Mrs, Juha (Maria Emilia Ojala),Panula,female,41,0,5,3,39.6875,S,DNS,BNR,0,Adults,5
+1108, Mr, Jakob,Pasic,male,21,0,0,3,8.6625,S,DNS,BNR,0,Adults,0
+1109, Mr, George,Patchett,male,19,0,0,3,14.5,S,DNS,BNR,0,Adults,0
+1110, Mr, Uscher,Paulner,male,26,0,0,3,8.7125,C,DNS,BNR,0,Adults,0
+1111, Mr, Stefo,Pavlovic,male,32,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1112, Master, Alfred Edward,Peacock,male,0.75,1,1,3,13.775,S,DNS,BNR,0,Children,2
+1113, Miss, Treasteall,Peacock,female,3,1,1,3,13.775,S,DNS,BNR,0,Children,2
+1114, Mrs, Benjamin (Edith Nile),Peacock,female,26,0,2,3,13.775,S,DNS,BNR,0,Adults,2
+1115, Mr, Ernest,Pearce,male,26,0,0,3,7,S,DNS,BNR,0,Adults,0
+1116, Mr, Olaf,Pedersen,male,26,0,0,3,7.775,S,DNS,BNR,0,Adults,0
+1117, Mr, Joseph,Peduzzi,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1118, Mr, Edvard,Pekoniemi,male,21,0,0,3,7.925,S,DNS,BNR,0,Adults,0
+1119, Mr, Nikolai Johannes,Peltomaki,male,25,0,0,3,7.925,S,DNS,BNR,0,Adults,0
+1120, Mr, John Henry,Perkin,male,22,0,0,3,7.25,S,DNS,BNR,0,Adults,0
+1121, Mr, Ernst Ulrik,Persson,male,25,1,0,3,7.775,S,15,S,1,Adults,1
+1122, Master, Michael J,Peter,male,6,1,1,3,22.3583,C,C,S,1,Children,2
+1123, Miss, Anna,Peter,female,18,1,1,3,22.3583,C,D,S,1,Teenagers,2
+1124, Mrs, Catherine (Catherine Rizk),Peter,female,31,0,2,3,22.3583,C,D,S,1,Adults,2
+1125, Miss, Katie,Peters,female,18,0,0,3,8.1375,Q,DNS,BNR,0,Teenagers,0
+1126, Mr, Marius,Petersen,male,24,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1127, Miss, Matilda,Petranec,female,28,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1128, Mr, Nedelio,Petroff,male,19,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1129, Mr," Pastcho (""Pentcho"")",Petroff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1130, Mr, Johan Emil,Petterson,male,25,1,0,3,7.775,S,DNS,BNR,0,Adults,1
+1131, Miss, Ellen Natalia,Pettersson,female,18,0,0,3,7.775,S,DNS,BNR,0,Teenagers,0
+1132, Mr, Berk (Berk Trembisky),Pickard,male,32,0,0,3,8.05,S,9,S,1,Adults,0
+1133, Mr, Vasil,Plotcharsky,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1134, Mr, Mate,Pokrnic,male,17,0,0,3,8.6625,S,DNS,BNR,0,Teenagers,0
+1135, Mr, Tome,Pokrnic,male,24,0,0,3,8.6625,S,DNS,BNR,0,Adults,0
+1136, Mr, Alexander,Radeff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1137, Mrs, (Lena Jacobsen Solvang),Rasmussen,female,31,0,0,3,8.1125,S,DNS,BNR,0,Adults,0
+1138, Mr, Raihed,Razi,male,26,0,0,3,7.2292,C,DNS,BNR,0,Adults,0
+1139, Mr, James George,Reed,male,26,0,0,3,7.25,S,DNS,BNR,0,Adults,0
+1140, Mr, Tido,Rekic,male,38,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1141, Mr, Harold J,Reynolds,male,21,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1142, Master, Albert,Rice,male,10,4,1,3,29.125,Q,DNS,BNR,0,Children,5
+1143, Master, Arthur,Rice,male,4,4,1,3,29.125,Q,DNS,BNR,0,Children,5
+1144, Master, Eric,Rice,male,7,4,1,3,29.125,Q,DNS,BNR,0,Children,5
+1145, Master, Eugene,Rice,male,2,4,1,3,29.125,Q,DNS,BNR,0,Children,5
+1146, Master, George Hugh,Rice,male,8,4,1,3,29.125,Q,DNS,BNR,0,Children,5
+1147, Mrs, William (Margaret Norton),Rice,female,39,0,5,3,29.125,Q,DNS,327,0,Adults,5
+1148, Miss," Susanna Juhantytar ""Sanni""",Riihivouri,female,22,0,0,3,39.6875,S,DNS,BNR,0,Adults,0
+1149, Mr, Matti,Rintamaki,male,35,0,0,3,7.125,S,DNS,BNR,0,Adults,0
+1150, Miss," Johanna ""Hannah""",Riordan,female,18,0,0,3,7.7208,Q,13,S,1,Teenagers,0
+1151, Mr, Samuel Beard,Risien,male,26,0,0,3,14.5,S,DNS,BNR,0,Adults,0
+1152, Mrs, Samuel (Emma),Risien,female,31,0,0,3,14.5,S,DNS,BNR,0,Adults,0
+1153, Mr, Alexander A,Robins,male,50,1,0,3,14.5,S,DNS,119,0,Adults,1
+1154, Mrs, Alexander A (Grace Charity Laury),Robins,female,47,1,0,3,14.5,S,DNS,7,0,Adults,1
+1155, Mr, William John,Rogers,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1156, Mr, Knud Paust,Rommetvedt,male,26,0,0,3,7.775,S,DNS,BNR,0,Adults,0
+1157, Miss, Salli Helena,Rosblom,female,2,1,1,3,20.2125,S,DNS,BNR,0,Children,2
+1158, Mr, Viktor Richard,Rosblom,male,18,1,1,3,20.2125,S,DNS,BNR,0,Teenagers,2
+1159, Mrs, Viktor (Helena Wilhelmina),Rosblom,female,41,0,2,3,20.2125,S,DNS,BNR,0,Adults,2
+1160, Miss, Sarah A,Roth,female,18,0,0,3,8.05,S,C,S,1,Teenagers,0
+1161, Mr, Richard Henry,Rouse,male,50,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1162, Mr, Alfred George John,Rush,male,16,0,0,3,8.05,S,DNS,BNR,0,Teenagers,0
+1163, Mr, Edward,Ryan,male,26,0,0,3,7.75,Q,14,S,1,Adults,0
+1164, Mr, Patrick,Ryan,male,26,0,0,3,24.15,Q,DNS,BNR,0,Adults,0
+1165, Mr, Amin,Saad,male,26,0,0,3,7.2292,C,DNS,BNR,0,Adults,0
+1166, Mr, Khalil,Saad,male,25,0,0,3,7.225,C,DNS,BNR,0,Adults,0
+1167, Mr, Jean Nassr,Saade,male,26,0,0,3,7.225,C,DNS,BNR,0,Adults,0
+1168, Mr, Matthew,Sadlier,male,26,0,0,3,7.7292,Q,DNS,BNR,0,Adults,0
+1169, Mr, Harry,Sadowitz,male,26,0,0,3,7.575,S,DNS,BNR,0,Adults,0
+1170, Mr, Simon Sivertsen,Saether,male,38.5,0,0,3,7.25,S,DNS,32,0,Adults,0
+1171, Master, Thomas Henry,Sage,male,6,8,2,3,69.55,S,DNS,BNR,0,Children,10
+1172, Master, William Henry,Sage,male,14.5,8,2,3,69.55,S,DNS,67,0,Teenagers,10
+1173, Miss, Ada,Sage,female,18,8,2,3,69.55,S,DNS,BNR,0,Teenagers,10
+1174, Miss, Constance Gladys,Sage,female,18,8,2,3,69.55,S,DNS,BNR,0,Teenagers,10
+1175, Miss," Dorothy Edith ""Dolly""",Sage,female,18,8,2,3,69.55,S,DNS,BNR,0,Teenagers,10
+1176, Miss, Stella Anna,Sage,female,18,8,2,3,69.55,S,DNS,BNR,0,Teenagers,10
+1177, Mr, Douglas Bullen,Sage,male,26,8,2,3,69.55,S,DNS,BNR,0,Adults,10
+1178, Mr, Frederick,Sage,male,26,8,2,3,69.55,S,DNS,BNR,0,Adults,10
+1179, Mr, George John Jr,Sage,male,26,8,2,3,69.55,S,DNS,BNR,0,Adults,10
+1180, Mr, John George,Sage,male,26,1,9,3,69.55,S,DNS,BNR,0,Adults,10
+1181, Mrs, John (Annie Bullen),Sage,female,31,1,9,3,69.55,S,DNS,BNR,0,Adults,10
+1182, Mr, Karl Johan,Salander,male,24,0,0,3,9.325,S,DNS,BNR,0,Adults,0
+1183, Miss, Anna Kristine,Salkjelsvik,female,21,0,0,3,7.65,S,C,S,1,Adults,0
+1184, Mr, Johan Werner,Salonen,male,39,0,0,3,7.925,S,DNS,BNR,0,Adults,0
+1185, Mr, Elias,Samaan,male,26,2,0,3,21.6792,C,DNS,BNR,0,Adults,2
+1186, Mr, Hanna,Samaan,male,26,2,0,3,21.6792,C,DNS,BNR,0,Adults,2
+1187, Mr, Youssef,Samaan,male,26,2,0,3,21.6792,C,DNS,BNR,0,Adults,2
+1188, Miss, Beatrice Irene,Sandstrom,female,1,1,1,3,16.7,S,13,S,1,Children,2
+1189, Mrs, Hjalmar (Agnes Charlotta Bengtsson),Sandstrom,female,24,0,2,3,16.7,S,13,S,1,Adults,2
+1190, Miss, Marguerite Rut,Sandstrom,female,4,1,1,3,16.7,S,13,S,1,Children,2
+1191, Mr, Julius,Sap,male,25,0,0,3,9.5,S,11,S,1,Adults,0
+1192, Mr, William Henry,Saundercock,male,20,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1193, Mr, Frederick Charles,Sawyer,male,24.5,0,0,3,8.05,S,DNS,284,0,Adults,0
+1194, Mr, James,Scanlan,male,26,0,0,3,7.725,Q,DNS,BNR,0,Adults,0
+1195, Mr, Todor,Sdycoff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1196, Mr, Patrick,Shaughnessy,male,26,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+1197, Mr, Jan Baptist,Sheerlinck,male,29,0,0,3,9.5,S,11,S,1,Adults,0
+1198, Mr, Frederick William,Shellard,male,26,0,0,3,15.1,S,DNS,BNR,0,Adults,0
+1199, Miss, Ellen Natalia,Shine,female,18,0,0,3,7.7792,Q,DNS,S,1,Teenagers,0
+1200, Mr, Charles Joseph,Shorney,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1201, Mr, John,Simmons,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1202, Mr, Orsen,Sirayanian,male,22,0,0,3,7.2292,C,DNS,BNR,0,Adults,0
+1203, Mr, Maurice,Sirota,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1204, Mr, Husein,Sivic,male,40,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1205, Mr, Antti Wilhelm,Sivola,male,21,0,0,3,7.925,S,DNS,BNR,0,Adults,0
+1206, Miss, Anna Sofia,Sjoblom,female,18,0,0,3,7.4958,S,16,S,1,Teenagers,0
+1207, Master, Harald,Skoog,male,4,3,2,3,27.9,S,DNS,BNR,0,Children,5
+1208, Master, Karl Thorsten,Skoog,male,10,3,2,3,27.9,S,DNS,BNR,0,Children,5
+1209, Miss, Mabel,Skoog,female,9,3,2,3,27.9,S,DNS,BNR,0,Children,5
+1210, Miss, Margit Elizabeth,Skoog,female,2,3,2,3,27.9,S,DNS,BNR,0,Children,5
+1211, Mr, Wilhelm,Skoog,male,40,1,4,3,27.9,S,DNS,BNR,0,Adults,5
+1212, Mrs, William (Anna Bernhardina Karlsson),Skoog,female,45,1,4,3,27.9,S,DNS,BNR,0,Adults,5
+1213, Mr, Petco,Slabenoff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1214, Mr, Selman Francis,Slocovski,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1215, Mr, Mile,Smiljanic,male,26,0,0,3,8.6625,S,DNS,BNR,0,Adults,0
+1216, Mr, Thomas,Smith,male,26,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+1217, Miss, Julia,Smyth,female,18,0,0,3,7.7333,Q,13,S,1,Teenagers,0
+1218, Mr, Peter Andreas Lauritz Andersen,Soholt,male,19,0,0,3,7.65,S,DNS,BNR,0,Adults,0
+1219, Mr, Francis William,Somerton,male,30,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1220, Mr, Woolf,Spector,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1221, Mr, Henry John,Spinner,male,32,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1222, Mr, Ivan,Staneff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1223, Mr, Ivan,Stankovic,male,33,0,0,3,8.6625,C,DNS,BNR,0,Adults,0
+1224, Miss, Amy Zillah Elsie,Stanley,female,23,0,0,3,7.55,S,C,S,1,Adults,0
+1225, Mr, Edward Roland,Stanley,male,21,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1226, Mr, Thomas,Storey,male,60.5,0,0,3,33.29547928134557,S,DNS,261,0,Seniors,0
+1227, Mr, Ilia,Stoytcheff,male,19,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1228, Miss, Ida Sofia,Strandberg,female,22,0,0,3,9.8375,S,DNS,BNR,0,Adults,0
+1229, Mr, Juho,Stranden,male,31,0,0,3,7.925,S,9,S,1,Adults,0
+1230, Mr, Ivan,Strilic,male,27,0,0,3,8.6625,S,DNS,BNR,0,Adults,0
+1231, Miss, Telma Matilda,Strom,female,2,0,1,3,10.4625,S,DNS,BNR,0,Children,1
+1232, Mrs, Wilhelm (Elna Matilda Persson),Strom,female,29,1,1,3,10.4625,S,DNS,BNR,0,Adults,2
+1233, Mr, Victor Francis,Sunderland,male,16,0,0,3,8.05,S,B,S,1,Teenagers,0
+1234, Mr, Johan Julian,Sundman,male,44,0,0,3,7.925,S,15,S,1,Adults,0
+1235, Mr, Henry Jr,Sutehall,male,25,0,0,3,7.05,S,DNS,BNR,0,Adults,0
+1236, Mr, Johan,Svensson,male,74,0,0,3,7.775,S,DNS,BNR,0,Seniors,0
+1237, Mr, Johan Cervin,Svensson,male,14,0,0,3,9.225,S,13,S,1,Teenagers,0
+1238, Mr, Olof,Svensson,male,24,0,0,3,7.7958,S,DNS,BNR,0,Adults,0
+1239, Mr, Gunnar Isidor,Tenglin,male,25,0,0,3,7.7958,S,13 15,S,1,Adults,0
+1240, Mr, Thomas Leonard,Theobald,male,34,0,0,3,8.05,S,DNS,176,0,Adults,0
+1241, Master, Assad Alexander,Thomas,male,0.4167,0,1,3,8.5167,C,16,S,1,Children,1
+1242, Mr, Charles P,Thomas,male,26,1,0,3,6.4375,C,DNS,BNR,0,Adults,1
+1243, Mr, John,Thomas,male,26,0,0,3,6.4375,C,DNS,BNR,0,Adults,0
+1244, Mr, Tannous,Thomas,male,26,0,0,3,7.225,C,DNS,BNR,0,Adults,0
+1245, Mrs," Alexander (Thamine ""Thelma"")",Thomas,female,16,1,1,3,8.5167,C,14,S,1,Teenagers,2
+1246, Mr, Alexander Morrison,Thomson,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1247, Mr, Percival,Thorneycroft,male,26,1,0,3,16.1,S,DNS,BNR,0,Adults,1
+1248, Mrs, Percival (Florence Kate White),Thorneycroft,female,31,1,0,3,16.1,S,10,S,1,Adults,1
+1249, Mr, Juho,Tikkanen,male,32,0,0,3,7.925,S,DNS,BNR,0,Adults,0
+1250, Mr, Roger,Tobin,male,26,0,0,3,7.75,Q,DNS,BNR,0,Adults,0
+1251, Mr, Lalio,Todoroff,male,26,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1252, Mr, Ernest Portage,Tomlin,male,30.5,0,0,3,8.05,S,DNS,50,0,Adults,0
+1253, Mr, Ernst William,Torber,male,44,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1254, Mr, Assad,Torfa,male,26,0,0,3,7.2292,C,DNS,BNR,0,Adults,0
+1255, Mr, William Henry,Tornquist,male,25,0,0,3,0,S,15,S,1,Adults,0
+1256, Mr, Nakli,Toufik,male,26,0,0,3,7.2292,C,DNS,BNR,0,Adults,0
+1257, Master, Georges Youssef,Touma,male,7,1,1,3,15.2458,C,C,S,1,Children,2
+1258, Miss, Maria Youssef,Touma,female,9,1,1,3,15.2458,C,C,S,1,Children,2
+1259, Mrs, Darwis (Hanne Youssef Razi),Touma,female,29,0,2,3,15.2458,C,C,S,1,Adults,2
+1260, Mr, Stjepan,Turcin,male,36,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1261, Miss, Anna Sofia,Turja,female,18,0,0,3,9.8417,S,15,S,1,Teenagers,0
+1262, Mrs, (Hedwig),Turkula,female,63,0,0,3,9.5875,S,15,S,1,Seniors,0
+1263, Master, James William,van Billiard,male,6,1,1,3,14.5,S,DNS,BNR,0,Children,2
+1264, Master, Walter John,van Billiard,male,11.5,1,1,3,14.5,S,DNS,1,0,Children,2
+1265, Mr, Austin Blyler,van Billiard,male,40.5,0,2,3,14.5,S,DNS,255,0,Adults,2
+1266, Miss, Catharina,Van Impe,female,10,0,2,3,24.15,S,DNS,BNR,0,Children,2
+1267, Mr, Jean Baptiste,Van Impe,male,36,1,1,3,24.15,S,DNS,BNR,0,Adults,2
+1268, Mrs, Jean Baptiste (Rosalie Paula Govaert),Van Impe,female,30,1,1,3,24.15,S,DNS,BNR,0,Adults,2
+1269, Mr, Philemon,van Melkebeke,male,26,0,0,3,9.5,S,DNS,BNR,0,Adults,0
+1270, Mr, Johannes Joseph,Vande Velde,male,33,0,0,3,9.5,S,DNS,BNR,0,Adults,0
+1271, Mr, Nestor Cyriel,Vande Walle,male,28,0,0,3,9.5,S,DNS,BNR,0,Adults,0
+1272, Mr, Leo Peter,Vanden Steen,male,28,0,0,3,9.5,S,DNS,BNR,0,Adults,0
+1273, Mr, Victor,Vander Cruyssen,male,47,0,0,3,9,S,DNS,BNR,0,Adults,0
+1274, Miss, Augusta Maria,Vander Planke,female,18,2,0,3,18,S,DNS,BNR,0,Teenagers,2
+1275, Mr, Julius,Vander Planke,male,31,3,0,3,18,S,DNS,BNR,0,Adults,3
+1276, Mr, Leo Edmondus,Vander Planke,male,16,2,0,3,18,S,DNS,BNR,0,Teenagers,2
+1277, Mrs, Julius (Emelia Maria Vandemoortele),Vander Planke,female,31,1,0,3,18,S,DNS,BNR,0,Adults,1
+1278, Mr, David,Vartanian,male,22,0,0,3,7.225,C,13 15,S,1,Adults,0
+1279, Mr, Olof Edvin,Vendel,male,20,0,0,3,7.8542,S,DNS,BNR,0,Adults,0
+1280, Miss, Hulda Amanda Adolfina,Vestrom,female,14,0,0,3,7.8542,S,DNS,BNR,0,Teenagers,0
+1281, Mr, Janko,Vovk,male,22,0,0,3,7.8958,S,DNS,BNR,0,Adults,0
+1282, Mr, Achille,Waelens,male,22,0,0,3,9,S,DNS,BNR,0,Adults,0
+1283, Mr, Frederick,Ware,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1284, Mr, Charles William,Warren,male,26,0,0,3,7.55,S,DNS,BNR,0,Adults,0
+1285, Mr, James,Webber,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1286, Mr, Linhart,Wenzel,male,32.5,0,0,3,9.5,S,DNS,298,0,Adults,0
+1287, Mrs, George Joseph (Shawneene Abi-Saab),Whabee,female,38,0,0,3,7.2292,C,C,S,1,Adults,0
+1288, Mr, Carl/Charles Peter,Widegren,male,51,0,0,3,7.75,S,DNS,BNR,0,Adults,0
+1289, Mr, Jakob Alfred,Wiklund,male,18,1,0,3,6.4958,S,DNS,314,0,Teenagers,1
+1290, Mr, Karl Johan,Wiklund,male,21,1,0,3,6.4958,S,DNS,BNR,0,Adults,1
+1291, Mrs, James (Ellen Needs),Wilkes,female,47,1,0,3,7,S,DNS,S,1,Adults,1
+1292, Mr," Aaron (""Abi Weller"")",Willer,male,26,0,0,3,8.7125,S,DNS,BNR,0,Adults,0
+1293, Mr, Edward,Willey,male,26,0,0,3,7.55,S,DNS,BNR,0,Adults,0
+1294, Mr," Howard Hugh ""Harry""",Williams,male,26,0,0,3,8.05,S,DNS,BNR,0,Adults,0
+1295, Mr, Leslie,Williams,male,28.5,0,0,3,16.1,S,DNS,14,0,Adults,0
+1296, Mr, Einar,Windelov,male,21,0,0,3,7.25,S,DNS,BNR,0,Adults,0
+1297, Mr, Albert,Wirz,male,27,0,0,3,8.6625,S,DNS,131,0,Adults,0
+1298, Mr, Phillippe,Wiseman,male,26,0,0,3,7.25,S,DNS,BNR,0,Adults,0
+1299, Mr, Camille,Wittevrongel,male,36,0,0,3,9.5,S,DNS,BNR,0,Adults,0
+1300, Mr, Antoni,Yasbeck,male,27,1,0,3,14.4542,C,C,BNR,0,Adults,1
+1301, Mrs, Antoni (Selini Alexander),Yasbeck,female,15,1,0,3,14.4542,C,DNS,S,1,Teenagers,1
+1302, Mr, Gerious,Youseff,male,45.5,0,0,3,7.225,C,DNS,312,0,Adults,0
+1303, Mr, Wazli,Yousif,male,26,0,0,3,7.225,C,DNS,BNR,0,Adults,0
+1304, Mr, Gerious,Yousseff,male,26,0,0,3,14.4583,C,DNS,BNR,0,Adults,0
+1305, Miss, Hileni,Zabour,female,14.5,1,0,3,14.4542,C,DNS,328,0,Teenagers,1
+1306, Miss, Thamine,Zabour,female,18,1,0,3,14.4542,C,DNS,BNR,0,Teenagers,1
+1307, Mr, Mapriededer,Zakarian,male,26.5,0,0,3,7.225,C,DNS,304,0,Adults,0
+1308, Mr, Ortin,Zakarian,male,27,0,0,3,7.225,C,DNS,BNR,0,Adults,0
+1309, Mr, Leo,Zimmerman,male,29,0,0,3,7.875,S,DNS,BNR,0,Adults,0
