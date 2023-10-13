@@ -54,5 +54,4 @@ The sinking of the Titanic on April 15, 1912, is one of the most infamous shipwr
 
 ## Acknowledgments
 
-- Your team members
-- Any third-party libraries or data sources used
+- Data source: The dataset used for this project was obtained from Kaggle, https://www.kaggle.com/datasets/vinicius150987/titanic3/data
