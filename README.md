@@ -29,7 +29,6 @@ The sinking of the Titanic on April 15, 1912, is one of the most infamous shipwr
   - matplotlib
   - seaborn
   - scipy
-  - sqlite3
   - csv
   - pathlib
   - sklearn.preprocessing (LabelEncoder, OneHotEncoder)
