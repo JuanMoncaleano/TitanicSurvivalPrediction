@@ -20,10 +20,6 @@ The sinking of the Titanic on April 15, 1912, is one of the most infamous shipwr
 2. Navigate to the project directory: `cd titanic-survival-prediction`
 3. Install the required packages: `pip install -r requirements.txt`
 
-## Usage
-
-1.
-
 ## Data Cleaning
 
 - Jupyter Notebook for data cleaning: `Base_Clean_DS.ipynb` and 'ML_Cleaned_DS'
