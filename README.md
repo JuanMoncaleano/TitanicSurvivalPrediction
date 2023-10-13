@@ -22,7 +22,7 @@ The sinking of the Titanic on April 15, 1912, is one of the most infamous shipwr
 
 ## Data Cleaning
 
-- Jupyter Notebook for data cleaning: 'Base_Clean_DS.ipynb' and 'ML_Cleaned_DS.ipynb'
+- Jupyter Notebook for data cleaning: 'Base_Clean_DS.ipynb' 'ML_Cleaned_DS.ipynb'
 - Libraries used:
   - pandas
   - numpy
