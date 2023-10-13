@@ -7,12 +7,11 @@ The sinking of the Titanic on April 15, 1912, is one of the most infamous shipwr
 ## Table of Contents
 
 1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Data Cleaning](#data-cleaning)
-4. [Data Visualization](#data-visualization)
-5. [Machine Learning Models](#machine-learning-models)
-6. [Contributing](#contributing)
-7. [Acknowledgments](#acknowledgments)
+2. [Data Cleaning](#data-cleaning)
+3. [Data Visualization](#data-visualization)
+4. [Machine Learning Models](#machine-learning-models)
+5. [Contributing](#contributing)
+6. [Acknowledgments](#acknowledgments)
 
 ## Installation
 
