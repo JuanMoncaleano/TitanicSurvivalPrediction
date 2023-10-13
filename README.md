@@ -16,13 +16,13 @@ The sinking of the Titanic on April 15, 1912, is one of the most infamous shipwr
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-repo/titanic-survival-prediction.git`
-2. Navigate to the project directory: `cd titanic-survival-prediction`
-3. Install the required packages: `pip install -r requirements.txt`
+1. Clone the repository: `git clone https://github.com/your-repo/TitanicSurvivalPrediction.git`
+2. Navigate to the project directory: `cd TitanicSurvivalPrediction`
+3. Install the required packages
 
 ## Data Cleaning
 
-- Jupyter Notebook for data cleaning: `Base_Clean_DS.ipynb` and 'ML_Cleaned_DS'
+- Jupyter Notebook for data cleaning: `Base_Clean_DS.ipynb` and 'ML_Cleaned_DS.ipynb'
 - Libraries used:
   - pandas
   - numpy
@@ -38,6 +38,8 @@ The sinking of the Titanic on April 15, 1912, is one of the most infamous shipwr
 - Tableau files for data visualization: (See the TABLEAU folder for the workbook)
 
 ## Machine Learning Models
+
+For an in-depth understanding of the machine learning aspect of this project, please refer to the 'ML' folder where you'll find the necessary code. Additionally, pre-trained models are saved and can be found in the 'Output' folder.
 
 ## Contributing
 
