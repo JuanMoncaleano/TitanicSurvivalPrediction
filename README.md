@@ -35,6 +35,7 @@ The sinking of the Titanic on April 15, 1912, is one of the most infamous shipwr
 ## Data Visualization
 
 - Tableau files for data visualization: (See the TABLEAU folder for the workbook)
+- [Tableau Public Dashboard](https://public.tableau.com/app/profile/suhani.arjin/viz/Project4TitanicVizs/SexDashboard)
 
 ## Machine Learning Models
 
